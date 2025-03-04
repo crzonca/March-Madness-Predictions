@@ -1,0 +1,744 @@
+                    GeneralizedPoisson Regression Results                     
+==============================================================================
+Dep. Variable:                 Points   No. Observations:                 9964
+Model:             GeneralizedPoisson   Df Residuals:                     9234
+Method:                           MLE   Df Model:                          729
+Date:                Sat, 01 Mar 2025   Pseudo R-squ.:                 0.06229
+Time:                        11:46:47   Log-Likelihood:                -35586.
+converged:                       True   LL-Null:                       -37949.
+Covariance Type:            nonrobust   LLR p-value:                     0.000
+====================================================================================================
+                                       coef    std err          z      P>|z|      [0.025      0.975]
+----------------------------------------------------------------------------------------------------
+const                                0.0209   8.71e+04    2.4e-07      1.000   -1.71e+05    1.71e+05
+Offense_Abilene Christian           -0.0837   4.98e+05  -1.68e-07      1.000   -9.76e+05    9.76e+05
+Offense_Air Force                   -0.0610   4.98e+05  -1.23e-07      1.000   -9.76e+05    9.76e+05
+Offense_Akron                        0.0408   4.98e+05   8.19e-08      1.000   -9.76e+05    9.76e+05
+Offense_Alabama                      0.1981   4.98e+05   3.98e-07      1.000   -9.76e+05    9.76e+05
+Offense_Alabama A&M                 -0.1574   4.98e+05  -3.16e-07      1.000   -9.76e+05    9.76e+05
+Offense_Alabama State               -0.0632   4.98e+05  -1.27e-07      1.000   -9.76e+05    9.76e+05
+Offense_Albany                      -0.0449   4.98e+05  -9.01e-08      1.000   -9.76e+05    9.76e+05
+Offense_Alcorn State                -0.0896   4.98e+05   -1.8e-07      1.000   -9.76e+05    9.76e+05
+Offense_American                    -0.0326   4.98e+05  -6.54e-08      1.000   -9.76e+05    9.76e+05
+Offense_Appalachian State           -0.0584   4.98e+05  -1.17e-07      1.000   -9.76e+05    9.76e+05
+Offense_Arizona                      0.1416   4.98e+05   2.84e-07      1.000   -9.76e+05    9.76e+05
+Offense_Arizona State                0.0610   4.98e+05   1.22e-07      1.000   -9.76e+05    9.76e+05
+Offense_Arkansas                     0.0740   4.98e+05   1.49e-07      1.000   -9.76e+05    9.76e+05
+Offense_Arkansas State               0.0345   4.98e+05   6.92e-08      1.000   -9.76e+05    9.76e+05
+Offense_Arkansas-Little Rock        -0.0702   4.98e+05  -1.41e-07      1.000   -9.76e+05    9.76e+05
+Offense_Arkansas-Pine Bluff         -0.1332   4.98e+05  -2.67e-07      1.000   -9.76e+05    9.76e+05
+Offense_Army                        -0.0438   4.98e+05  -8.79e-08      1.000   -9.76e+05    9.76e+05
+Offense_Auburn                       0.2325   4.98e+05   4.67e-07      1.000   -9.76e+05    9.76e+05
+Offense_Austin Peay                 -0.0566   4.98e+05  -1.14e-07      1.000   -9.76e+05    9.76e+05
+Offense_BYU                          0.1572   4.98e+05   3.16e-07      1.000   -9.76e+05    9.76e+05
+Offense_Ball State                  -0.0211   4.98e+05  -4.23e-08      1.000   -9.76e+05    9.76e+05
+Offense_Baylor                       0.1676   4.98e+05   3.37e-07      1.000   -9.76e+05    9.76e+05
+Offense_Bellarmine                  -0.0204   4.98e+05  -4.09e-08      1.000   -9.76e+05    9.76e+05
+Offense_Belmont                      0.0692   4.98e+05   1.39e-07      1.000   -9.76e+05    9.76e+05
+Offense_Bethune-Cookman             -0.0852   4.98e+05  -1.71e-07      1.000   -9.76e+05    9.76e+05
+Offense_Binghamton                  -0.0657   4.98e+05  -1.32e-07      1.000   -9.76e+05    9.76e+05
+Offense_Boise State                  0.1176   4.98e+05   2.36e-07      1.000   -9.76e+05    9.76e+05
+Offense_Boston College              -0.0103   4.98e+05  -2.07e-08      1.000   -9.76e+05    9.76e+05
+Offense_Boston University           -0.0908   4.98e+05  -1.82e-07      1.000   -9.76e+05    9.76e+05
+Offense_Bowling Green               -0.0627   4.98e+05  -1.26e-07      1.000   -9.76e+05    9.76e+05
+Offense_Bradley                      0.0672   4.98e+05   1.35e-07      1.000   -9.76e+05    9.76e+05
+Offense_Brown                       -0.0246   4.98e+05  -4.94e-08      1.000   -9.76e+05    9.76e+05
+Offense_Bryant                       0.0014   4.98e+05   2.77e-09      1.000   -9.76e+05    9.76e+05
+Offense_Bucknell                    -0.0289   4.98e+05   -5.8e-08      1.000   -9.76e+05    9.76e+05
+Offense_Buffalo                     -0.1281   4.98e+05  -2.57e-07      1.000   -9.76e+05    9.76e+05
+Offense_Butler                       0.0983   4.98e+05   1.97e-07      1.000   -9.76e+05    9.76e+05
+Offense_Cal Poly                     0.0127   4.98e+05   2.54e-08      1.000   -9.76e+05    9.76e+05
+Offense_Cal State-Bakersfield        0.0021   4.98e+05   4.25e-09      1.000   -9.76e+05    9.76e+05
+Offense_Cal State-Fullerton         -0.1222   4.98e+05  -2.45e-07      1.000   -9.76e+05    9.76e+05
+Offense_Cal State-Long Beach        -0.0532   4.98e+05  -1.07e-07      1.000   -9.76e+05    9.76e+05
+Offense_Cal State-Northridge         0.0139   4.98e+05   2.79e-08      1.000   -9.76e+05    9.76e+05
+Offense_California                   0.0374   4.98e+05   7.51e-08      1.000   -9.76e+05    9.76e+05
+Offense_California Baptist           0.0057   4.98e+05   1.15e-08      1.000   -9.76e+05    9.76e+05
+Offense_Campbell                    -0.0357   4.98e+05  -7.16e-08      1.000   -9.76e+05    9.76e+05
+Offense_Canisius                    -0.0608   4.98e+05  -1.22e-07      1.000   -9.76e+05    9.76e+05
+Offense_Central Arkansas            -0.1048   4.98e+05   -2.1e-07      1.000   -9.76e+05    9.76e+05
+Offense_Central Connecticut         -0.0343   4.98e+05  -6.88e-08      1.000   -9.76e+05    9.76e+05
+Offense_Central Michigan            -0.0206   4.98e+05  -4.13e-08      1.000   -9.76e+05    9.76e+05
+Offense_Charleston Southern         -0.0787   4.98e+05  -1.58e-07      1.000   -9.76e+05    9.76e+05
+Offense_Charlotte                   -0.0184   4.98e+05  -3.69e-08      1.000   -9.76e+05    9.76e+05
+Offense_Chattanooga                  0.0781   4.98e+05   1.57e-07      1.000   -9.76e+05    9.76e+05
+Offense_Chicago State               -0.1704   4.98e+05  -3.42e-07      1.000   -9.76e+05    9.76e+05
+Offense_Cincinnati                   0.0849   4.98e+05    1.7e-07      1.000   -9.76e+05    9.76e+05
+Offense_Citadel                     -0.1340   4.98e+05  -2.69e-07      1.000   -9.76e+05    9.76e+05
+Offense_Clemson                      0.1339   4.98e+05   2.69e-07      1.000   -9.76e+05    9.76e+05
+Offense_Cleveland State             -0.0301   4.98e+05  -6.05e-08      1.000   -9.76e+05    9.76e+05
+Offense_Coastal Carolina            -0.0452   4.98e+05  -9.08e-08      1.000   -9.76e+05    9.76e+05
+Offense_Colgate                     -0.0014   4.98e+05  -2.83e-09      1.000   -9.76e+05    9.76e+05
+Offense_College of Charleston        0.0027   4.98e+05   5.42e-09      1.000   -9.76e+05    9.76e+05
+Offense_Colorado                     0.0231   4.98e+05   4.64e-08      1.000   -9.76e+05    9.76e+05
+Offense_Colorado State               0.0776   4.98e+05   1.56e-07      1.000   -9.76e+05    9.76e+05
+Offense_Columbia                    -0.0078   4.98e+05  -1.58e-08      1.000   -9.76e+05    9.76e+05
+Offense_Coppin State                -0.2258   4.98e+05  -4.53e-07      1.000   -9.76e+05    9.76e+05
+Offense_Cornell                      0.0620   4.98e+05   1.25e-07      1.000   -9.76e+05    9.76e+05
+Offense_Creighton                    0.1113   4.98e+05   2.24e-07      1.000   -9.76e+05    9.76e+05
+Offense_Dartmouth                   -0.0486   4.98e+05  -9.76e-08      1.000   -9.76e+05    9.76e+05
+Offense_Davidson                     0.0480   4.98e+05   9.64e-08      1.000   -9.76e+05    9.76e+05
+Offense_Dayton                       0.0984   4.98e+05   1.98e-07      1.000   -9.76e+05    9.76e+05
+Offense_DePaul                       0.0304   4.98e+05   6.11e-08      1.000   -9.76e+05    9.76e+05
+Offense_Delaware                     0.0220   4.98e+05   4.42e-08      1.000   -9.76e+05    9.76e+05
+Offense_Delaware State              -0.0685   4.98e+05  -1.38e-07      1.000   -9.76e+05    9.76e+05
+Offense_Denver                      -0.0712   4.98e+05  -1.43e-07      1.000   -9.76e+05    9.76e+05
+Offense_Detroit-Mercy               -0.1249   4.98e+05  -2.51e-07      1.000   -9.76e+05    9.76e+05
+Offense_Drake                        0.0816   4.98e+05   1.64e-07      1.000   -9.76e+05    9.76e+05
+Offense_Drexel                      -0.0380   4.98e+05  -7.63e-08      1.000   -9.76e+05    9.76e+05
+Offense_Duke                         0.2085   4.98e+05   4.19e-07      1.000   -9.76e+05    9.76e+05
+Offense_Duquesne                    -0.0126   4.98e+05  -2.53e-08      1.000   -9.76e+05    9.76e+05
+Offense_East Carolina                0.0207   4.98e+05   4.15e-08      1.000   -9.76e+05    9.76e+05
+Offense_East Tennessee State         0.0014   4.98e+05   2.85e-09      1.000   -9.76e+05    9.76e+05
+Offense_Eastern Illinois            -0.1425   4.98e+05  -2.86e-07      1.000   -9.76e+05    9.76e+05
+Offense_Eastern Kentucky             0.0283   4.98e+05   5.68e-08      1.000   -9.76e+05    9.76e+05
+Offense_Eastern Michigan            -0.0366   4.98e+05  -7.36e-08      1.000   -9.76e+05    9.76e+05
+Offense_Eastern Washington          -0.0248   4.98e+05  -4.99e-08      1.000   -9.76e+05    9.76e+05
+Offense_Elon                         0.0086   4.98e+05   1.72e-08      1.000   -9.76e+05    9.76e+05
+Offense_Evansville                  -0.0777   4.98e+05  -1.56e-07      1.000   -9.76e+05    9.76e+05
+Offense_FAU                          0.0646   4.98e+05    1.3e-07      1.000   -9.76e+05    9.76e+05
+Offense_FDU                         -0.0701   4.98e+05  -1.41e-07      1.000   -9.76e+05    9.76e+05
+Offense_FGCU                         0.0191   4.98e+05   3.84e-08      1.000   -9.76e+05    9.76e+05
+Offense_FIU                         -0.0996   4.98e+05     -2e-07      1.000   -9.76e+05    9.76e+05
+Offense_Fairfield                   -0.0728   4.98e+05  -1.46e-07      1.000   -9.76e+05    9.76e+05
+Offense_Florida                      0.1797   4.98e+05   3.61e-07      1.000   -9.76e+05    9.76e+05
+Offense_Florida A&M                 -0.0795   4.98e+05   -1.6e-07      1.000   -9.76e+05    9.76e+05
+Offense_Florida State                0.0313   4.98e+05   6.29e-08      1.000   -9.76e+05    9.76e+05
+Offense_Fordham                     -0.0155   4.98e+05  -3.11e-08      1.000   -9.76e+05    9.76e+05
+Offense_Fresno State                -0.0646   4.98e+05   -1.3e-07      1.000   -9.76e+05    9.76e+05
+Offense_Furman                       0.0158   4.98e+05   3.17e-08      1.000   -9.76e+05    9.76e+05
+Offense_Gardner-Webb                -0.0231   4.98e+05  -4.63e-08      1.000   -9.76e+05    9.76e+05
+Offense_George Mason                -0.0087   4.98e+05  -1.75e-08      1.000   -9.76e+05    9.76e+05
+Offense_George Washington           -0.0170   4.98e+05  -3.41e-08      1.000   -9.76e+05    9.76e+05
+Offense_Georgetown                   0.0253   4.98e+05   5.07e-08      1.000   -9.76e+05    9.76e+05
+Offense_Georgia                      0.0922   4.98e+05   1.85e-07      1.000   -9.76e+05    9.76e+05
+Offense_Georgia Southern            -0.0572   4.98e+05  -1.15e-07      1.000   -9.76e+05    9.76e+05
+Offense_Georgia State               -0.0090   4.98e+05   -1.8e-08      1.000   -9.76e+05    9.76e+05
+Offense_Georgia Tech                 0.0096   4.98e+05   1.93e-08      1.000   -9.76e+05    9.76e+05
+Offense_Gonzaga                      0.1676   4.98e+05   3.37e-07      1.000   -9.76e+05    9.76e+05
+Offense_Grambling State             -0.1132   4.98e+05  -2.27e-07      1.000   -9.76e+05    9.76e+05
+Offense_Grand Canyon                 0.0088   4.98e+05   1.77e-08      1.000   -9.76e+05    9.76e+05
+Offense_Hampton                     -0.0386   4.98e+05  -7.75e-08      1.000   -9.76e+05    9.76e+05
+Offense_Harvard                     -0.0565   4.98e+05  -1.13e-07      1.000   -9.76e+05    9.76e+05
+Offense_Hawaii                      -0.0269   4.98e+05   -5.4e-08      1.000   -9.76e+05    9.76e+05
+Offense_High Point                   0.1019   4.98e+05   2.05e-07      1.000   -9.76e+05    9.76e+05
+Offense_Hofstra                     -0.0781   4.98e+05  -1.57e-07      1.000   -9.76e+05    9.76e+05
+Offense_Holy Cross                  -0.0457   4.98e+05  -9.18e-08      1.000   -9.76e+05    9.76e+05
+Offense_Houston                      0.1720   4.98e+05   3.45e-07      1.000   -9.76e+05    9.76e+05
+Offense_Houston Christian           -0.0442   4.98e+05  -8.87e-08      1.000   -9.76e+05    9.76e+05
+Offense_Howard                      -0.0132   4.98e+05  -2.66e-08      1.000   -9.76e+05    9.76e+05
+Offense_IUPUI                        0.0080   4.98e+05   1.61e-08      1.000   -9.76e+05    9.76e+05
+Offense_Idaho                        0.0191   4.98e+05   3.83e-08      1.000   -9.76e+05    9.76e+05
+Offense_Idaho State                  0.0049   4.98e+05    9.8e-09      1.000   -9.76e+05    9.76e+05
+Offense_Illinois                     0.1421   4.98e+05   2.85e-07      1.000   -9.76e+05    9.76e+05
+Offense_Illinois State               0.0876   4.98e+05   1.76e-07      1.000   -9.76e+05    9.76e+05
+Offense_Illinois-Chicago             0.0211   4.98e+05   4.24e-08      1.000   -9.76e+05    9.76e+05
+Offense_Incarnate Word               0.0032   4.98e+05   6.47e-09      1.000   -9.76e+05    9.76e+05
+Offense_Indiana                      0.0745   4.98e+05    1.5e-07      1.000   -9.76e+05    9.76e+05
+Offense_Indiana State                0.0136   4.98e+05   2.72e-08      1.000   -9.76e+05    9.76e+05
+Offense_Iona                        -0.1039   4.98e+05  -2.09e-07      1.000   -9.76e+05    9.76e+05
+Offense_Iowa                         0.1251   4.98e+05   2.51e-07      1.000   -9.76e+05    9.76e+05
+Offense_Iowa State                   0.1260   4.98e+05   2.53e-07      1.000   -9.76e+05    9.76e+05
+Offense_Jackson State               -0.0672   4.98e+05  -1.35e-07      1.000   -9.76e+05    9.76e+05
+Offense_Jacksonville                -0.0494   4.98e+05  -9.91e-08      1.000   -9.76e+05    9.76e+05
+Offense_Jacksonville State           0.0338   4.98e+05   6.79e-08      1.000   -9.76e+05    9.76e+05
+Offense_James Madison                0.0478   4.98e+05    9.6e-08      1.000   -9.76e+05    9.76e+05
+Offense_Kansas                       0.0984   4.98e+05   1.97e-07      1.000   -9.76e+05    9.76e+05
+Offense_Kansas State                 0.0685   4.98e+05   1.38e-07      1.000   -9.76e+05    9.76e+05
+Offense_Kennesaw State              -0.0265   4.98e+05  -5.31e-08      1.000   -9.76e+05    9.76e+05
+Offense_Kent State                  -0.0081   4.98e+05  -1.62e-08      1.000   -9.76e+05    9.76e+05
+Offense_Kentucky                     0.1854   4.98e+05   3.72e-07      1.000   -9.76e+05    9.76e+05
+Offense_LSU                          0.0558   4.98e+05   1.12e-07      1.000   -9.76e+05    9.76e+05
+Offense_La Salle                    -0.0503   4.98e+05  -1.01e-07      1.000   -9.76e+05    9.76e+05
+Offense_Lafayette                   -0.0747   4.98e+05   -1.5e-07      1.000   -9.76e+05    9.76e+05
+Offense_Lamar                       -0.0406   4.98e+05  -8.15e-08      1.000   -9.76e+05    9.76e+05
+Offense_Le Moyne                    -0.0580   4.98e+05  -1.17e-07      1.000   -9.76e+05    9.76e+05
+Offense_Lehigh                      -0.0655   4.98e+05  -1.31e-07      1.000   -9.76e+05    9.76e+05
+Offense_Liberty                      0.0412   4.98e+05   8.26e-08      1.000   -9.76e+05    9.76e+05
+Offense_Lindenwood                  -0.1251   4.98e+05  -2.51e-07      1.000   -9.76e+05    9.76e+05
+Offense_Lipscomb                     0.0496   4.98e+05   9.95e-08      1.000   -9.76e+05    9.76e+05
+Offense_Long Island                 -0.1171   4.98e+05  -2.35e-07      1.000   -9.76e+05    9.76e+05
+Offense_Longwood                    -0.0098   4.98e+05  -1.96e-08      1.000   -9.76e+05    9.76e+05
+Offense_Louisiana Tech               0.0312   4.98e+05   6.27e-08      1.000   -9.76e+05    9.76e+05
+Offense_Louisiana-Lafayette         -0.0855   4.98e+05  -1.72e-07      1.000   -9.76e+05    9.76e+05
+Offense_Louisiana-Monroe            -0.1085   4.98e+05  -2.18e-07      1.000   -9.76e+05    9.76e+05
+Offense_Louisville                   0.1203   4.98e+05   2.41e-07      1.000   -9.76e+05    9.76e+05
+Offense_Loyola-Chicago               0.0141   4.98e+05   2.83e-08      1.000   -9.76e+05    9.76e+05
+Offense_Loyola-Maryland             -0.0659   4.98e+05  -1.32e-07      1.000   -9.76e+05    9.76e+05
+Offense_Loyola-Marymount            -0.0149   4.98e+05  -2.99e-08      1.000   -9.76e+05    9.76e+05
+Offense_Maine                       -0.0486   4.98e+05  -9.75e-08      1.000   -9.76e+05    9.76e+05
+Offense_Manhattan                   -0.0138   4.98e+05  -2.77e-08      1.000   -9.76e+05    9.76e+05
+Offense_Marist                      -0.0641   4.98e+05  -1.29e-07      1.000   -9.76e+05    9.76e+05
+Offense_Marquette                    0.1126   4.98e+05   2.26e-07      1.000   -9.76e+05    9.76e+05
+Offense_Marshall                    -0.0146   4.98e+05  -2.92e-08      1.000   -9.76e+05    9.76e+05
+Offense_Maryland                     0.1208   4.98e+05   2.43e-07      1.000   -9.76e+05    9.76e+05
+Offense_Maryland-Eastern Shore      -0.1603   4.98e+05  -3.22e-07      1.000   -9.76e+05    9.76e+05
+Offense_Massachusetts-Lowell         0.0130   4.98e+05   2.61e-08      1.000   -9.76e+05    9.76e+05
+Offense_McNeese State                0.0772   4.98e+05   1.55e-07      1.000   -9.76e+05    9.76e+05
+Offense_Memphis                      0.0871   4.98e+05   1.75e-07      1.000   -9.76e+05    9.76e+05
+Offense_Mercer                      -0.0604   4.98e+05  -1.21e-07      1.000   -9.76e+05    9.76e+05
+Offense_Mercyhurst                  -0.0674   4.98e+05  -1.35e-07      1.000   -9.76e+05    9.76e+05
+Offense_Merrimack                   -0.0719   4.98e+05  -1.44e-07      1.000   -9.76e+05    9.76e+05
+Offense_Miami                        0.0780   4.98e+05   1.57e-07      1.000   -9.76e+05    9.76e+05
+Offense_Miami-OH                     0.0212   4.98e+05   4.26e-08      1.000   -9.76e+05    9.76e+05
+Offense_Michigan                     0.1120   4.98e+05   2.25e-07      1.000   -9.76e+05    9.76e+05
+Offense_Michigan State               0.1220   4.98e+05   2.45e-07      1.000   -9.76e+05    9.76e+05
+Offense_Middle Tennessee             0.0332   4.98e+05   6.67e-08      1.000   -9.76e+05    9.76e+05
+Offense_Minnesota                    0.0376   4.98e+05   7.55e-08      1.000   -9.76e+05    9.76e+05
+Offense_Mississippi State            0.1238   4.98e+05   2.49e-07      1.000   -9.76e+05    9.76e+05
+Offense_Mississippi Valley State    -0.2928   4.98e+05  -5.88e-07      1.000   -9.76e+05    9.76e+05
+Offense_Missouri                     0.1773   4.98e+05   3.56e-07      1.000   -9.76e+05    9.76e+05
+Offense_Missouri State              -0.0423   4.98e+05   -8.5e-08      1.000   -9.76e+05    9.76e+05
+Offense_Missouri-Kansas City        -0.0421   4.98e+05  -8.45e-08      1.000   -9.76e+05    9.76e+05
+Offense_Monmouth                    -0.0385   4.98e+05  -7.73e-08      1.000   -9.76e+05    9.76e+05
+Offense_Montana                      0.0406   4.98e+05   8.14e-08      1.000   -9.76e+05    9.76e+05
+Offense_Montana State               -0.0037   4.98e+05  -7.39e-09      1.000   -9.76e+05    9.76e+05
+Offense_Morehead State              -0.0947   4.98e+05   -1.9e-07      1.000   -9.76e+05    9.76e+05
+Offense_Morgan State                -0.0550   4.98e+05  -1.11e-07      1.000   -9.76e+05    9.76e+05
+Offense_Mount Saint Mary's          -0.0739   4.98e+05  -1.48e-07      1.000   -9.76e+05    9.76e+05
+Offense_Murray State                 0.0039   4.98e+05   7.86e-09      1.000   -9.76e+05    9.76e+05
+Offense_NC State                     0.0288   4.98e+05   5.77e-08      1.000   -9.76e+05    9.76e+05
+Offense_NJIT                        -0.1349   4.98e+05  -2.71e-07      1.000   -9.76e+05    9.76e+05
+Offense_Navy                        -0.0539   4.98e+05  -1.08e-07      1.000   -9.76e+05    9.76e+05
+Offense_Nebraska                     0.0626   4.98e+05   1.26e-07      1.000   -9.76e+05    9.76e+05
+Offense_Nebraska-Omaha               0.0297   4.98e+05   5.97e-08      1.000   -9.76e+05    9.76e+05
+Offense_Nevada                       0.0933   4.98e+05   1.87e-07      1.000   -9.76e+05    9.76e+05
+Offense_New Hampshire               -0.1371   4.98e+05  -2.75e-07      1.000   -9.76e+05    9.76e+05
+Offense_New Mexico                   0.0658   4.98e+05   1.32e-07      1.000   -9.76e+05    9.76e+05
+Offense_New Mexico State            -0.0210   4.98e+05  -4.22e-08      1.000   -9.76e+05    9.76e+05
+Offense_New Orleans                 -0.0902   4.98e+05  -1.81e-07      1.000   -9.76e+05    9.76e+05
+Offense_Niagara                     -0.0666   4.98e+05  -1.34e-07      1.000   -9.76e+05    9.76e+05
+Offense_Nicholls State              -0.0041   4.98e+05  -8.18e-09      1.000   -9.76e+05    9.76e+05
+Offense_Norfolk State               -0.0046   4.98e+05   -9.3e-09      1.000   -9.76e+05    9.76e+05
+Offense_North Alabama                0.0502   4.98e+05   1.01e-07      1.000   -9.76e+05    9.76e+05
+Offense_North Carolina               0.1200   4.98e+05   2.41e-07      1.000   -9.76e+05    9.76e+05
+Offense_North Carolina A&T          -0.0909   4.98e+05  -1.83e-07      1.000   -9.76e+05    9.76e+05
+Offense_North Carolina Central      -0.0410   4.98e+05  -8.24e-08      1.000   -9.76e+05    9.76e+05
+Offense_North Dakota                 0.0055   4.98e+05   1.11e-08      1.000   -9.76e+05    9.76e+05
+Offense_North Dakota State           0.0884   4.98e+05   1.78e-07      1.000   -9.76e+05    9.76e+05
+Offense_North Florida                0.0207   4.98e+05   4.16e-08      1.000   -9.76e+05    9.76e+05
+Offense_North Texas                  0.0635   4.98e+05   1.28e-07      1.000   -9.76e+05    9.76e+05
+Offense_Northeastern                -0.0311   4.98e+05  -6.25e-08      1.000   -9.76e+05    9.76e+05
+Offense_Northern Arizona            -0.0336   4.98e+05  -6.75e-08      1.000   -9.76e+05    9.76e+05
+Offense_Northern Colorado            0.0601   4.98e+05   1.21e-07      1.000   -9.76e+05    9.76e+05
+Offense_Northern Illinois           -0.1464   4.98e+05  -2.94e-07      1.000   -9.76e+05    9.76e+05
+Offense_Northern Iowa                0.0524   4.98e+05   1.05e-07      1.000   -9.76e+05    9.76e+05
+Offense_Northern Kentucky           -0.0526   4.98e+05  -1.06e-07      1.000   -9.76e+05    9.76e+05
+Offense_Northwestern                 0.0795   4.98e+05    1.6e-07      1.000   -9.76e+05    9.76e+05
+Offense_Northwestern State          -0.0479   4.98e+05  -9.62e-08      1.000   -9.76e+05    9.76e+05
+Offense_Notre Dame                   0.0712   4.98e+05   1.43e-07      1.000   -9.76e+05    9.76e+05
+Offense_Oakland-Michigan            -0.0064   4.98e+05  -1.28e-08      1.000   -9.76e+05    9.76e+05
+Offense_Ohio                         0.0111   4.98e+05   2.24e-08      1.000   -9.76e+05    9.76e+05
+Offense_Ohio State                   0.1215   4.98e+05   2.44e-07      1.000   -9.76e+05    9.76e+05
+Offense_Oklahoma                     0.1148   4.98e+05    2.3e-07      1.000   -9.76e+05    9.76e+05
+Offense_Oklahoma State               0.0243   4.98e+05   4.88e-08      1.000   -9.76e+05    9.76e+05
+Offense_Old Dominion                -0.0779   4.98e+05  -1.56e-07      1.000   -9.76e+05    9.76e+05
+Offense_Ole Miss                     0.1012   4.98e+05   2.03e-07      1.000   -9.76e+05    9.76e+05
+Offense_Oral Roberts                -0.0333   4.98e+05  -6.69e-08      1.000   -9.76e+05    9.76e+05
+Offense_Oregon                       0.1079   4.98e+05   2.17e-07      1.000   -9.76e+05    9.76e+05
+Offense_Oregon State                 0.1039   4.98e+05   2.09e-07      1.000   -9.76e+05    9.76e+05
+Offense_Pacific                     -0.0450   4.98e+05  -9.04e-08      1.000   -9.76e+05    9.76e+05
+Offense_Penn                        -0.0551   4.98e+05  -1.11e-07      1.000   -9.76e+05    9.76e+05
+Offense_Penn State                   0.0799   4.98e+05   1.61e-07      1.000   -9.76e+05    9.76e+05
+Offense_Pepperdine                  -0.0146   4.98e+05  -2.92e-08      1.000   -9.76e+05    9.76e+05
+Offense_Pitt                         0.1094   4.98e+05    2.2e-07      1.000   -9.76e+05    9.76e+05
+Offense_Portland                    -0.0250   4.98e+05  -5.02e-08      1.000   -9.76e+05    9.76e+05
+Offense_Portland State              -0.0385   4.98e+05  -7.74e-08      1.000   -9.76e+05    9.76e+05
+Offense_Prairie View A&M            -0.0852   4.98e+05  -1.71e-07      1.000   -9.76e+05    9.76e+05
+Offense_Presbyterian                -0.0212   4.98e+05  -4.26e-08      1.000   -9.76e+05    9.76e+05
+Offense_Princeton                   -0.0077   4.98e+05  -1.54e-08      1.000   -9.76e+05    9.76e+05
+Offense_Providence                   0.0671   4.98e+05   1.35e-07      1.000   -9.76e+05    9.76e+05
+Offense_Purdue                       0.1675   4.98e+05   3.36e-07      1.000   -9.76e+05    9.76e+05
+Offense_Purdue-Fort Wayne            0.0502   4.98e+05   1.01e-07      1.000   -9.76e+05    9.76e+05
+Offense_Queens (N.C.)               -0.0071   4.98e+05  -1.43e-08      1.000   -9.76e+05    9.76e+05
+Offense_Quinnipiac                  -0.0476   4.98e+05  -9.56e-08      1.000   -9.76e+05    9.76e+05
+Offense_Radford                      0.0206   4.98e+05   4.14e-08      1.000   -9.76e+05    9.76e+05
+Offense_Rhode Island                 0.0135   4.98e+05   2.72e-08      1.000   -9.76e+05    9.76e+05
+Offense_Rice                         0.0045   4.98e+05   9.03e-09      1.000   -9.76e+05    9.76e+05
+Offense_Richmond                    -0.0278   4.98e+05  -5.58e-08      1.000   -9.76e+05    9.76e+05
+Offense_Rider                       -0.0647   4.98e+05   -1.3e-07      1.000   -9.76e+05    9.76e+05
+Offense_Robert Morris               -0.0131   4.98e+05  -2.64e-08      1.000   -9.76e+05    9.76e+05
+Offense_Rutgers                      0.0897   4.98e+05    1.8e-07      1.000   -9.76e+05    9.76e+05
+Offense_SIU-Edwardsville            -0.0646   4.98e+05   -1.3e-07      1.000   -9.76e+05    9.76e+05
+Offense_SMU                          0.1171   4.98e+05   2.35e-07      1.000   -9.76e+05    9.76e+05
+Offense_Sacramento State            -0.1113   4.98e+05  -2.23e-07      1.000   -9.76e+05    9.76e+05
+Offense_Sacred Heart                -0.0304   4.98e+05  -6.11e-08      1.000   -9.76e+05    9.76e+05
+Offense_Saint Bonaventure            0.0194   4.98e+05    3.9e-08      1.000   -9.76e+05    9.76e+05
+Offense_Saint Francis-PA            -0.0553   4.98e+05  -1.11e-07      1.000   -9.76e+05    9.76e+05
+Offense_Saint John's                 0.0721   4.98e+05   1.45e-07      1.000   -9.76e+05    9.76e+05
+Offense_Saint Joseph's               0.0408   4.98e+05    8.2e-08      1.000   -9.76e+05    9.76e+05
+Offense_Saint Louis                  0.0273   4.98e+05   5.48e-08      1.000   -9.76e+05    9.76e+05
+Offense_Saint Mary's                 0.1075   4.98e+05   2.16e-07      1.000   -9.76e+05    9.76e+05
+Offense_Saint Peter's               -0.1108   4.98e+05  -2.22e-07      1.000   -9.76e+05    9.76e+05
+Offense_Saint Thomas                 0.0785   4.98e+05   1.58e-07      1.000   -9.76e+05    9.76e+05
+Offense_Sam Houston State            0.0330   4.98e+05   6.62e-08      1.000   -9.76e+05    9.76e+05
+Offense_Samford                      0.0380   4.98e+05   7.63e-08      1.000   -9.76e+05    9.76e+05
+Offense_San Diego                   -0.0741   4.98e+05  -1.49e-07      1.000   -9.76e+05    9.76e+05
+Offense_San Diego State              0.0361   4.98e+05   7.25e-08      1.000   -9.76e+05    9.76e+05
+Offense_San Francisco                0.0574   4.98e+05   1.15e-07      1.000   -9.76e+05    9.76e+05
+Offense_San Jose State               0.0195   4.98e+05   3.92e-08      1.000   -9.76e+05    9.76e+05
+Offense_Santa Clara                  0.1158   4.98e+05   2.33e-07      1.000   -9.76e+05    9.76e+05
+Offense_Seattle                     -0.0080   4.98e+05  -1.61e-08      1.000   -9.76e+05    9.76e+05
+Offense_Seton Hall                  -0.0538   4.98e+05  -1.08e-07      1.000   -9.76e+05    9.76e+05
+Offense_Siena                       -0.0342   4.98e+05  -6.87e-08      1.000   -9.76e+05    9.76e+05
+Offense_South Alabama                0.0103   4.98e+05   2.07e-08      1.000   -9.76e+05    9.76e+05
+Offense_South Carolina               0.0237   4.98e+05   4.75e-08      1.000   -9.76e+05    9.76e+05
+Offense_South Carolina State        -0.0458   4.98e+05   -9.2e-08      1.000   -9.76e+05    9.76e+05
+Offense_South Carolina-Upstate      -0.0815   4.98e+05  -1.64e-07      1.000   -9.76e+05    9.76e+05
+Offense_South Dakota                 0.0271   4.98e+05   5.45e-08      1.000   -9.76e+05    9.76e+05
+Offense_South Dakota State           0.0521   4.98e+05   1.05e-07      1.000   -9.76e+05    9.76e+05
+Offense_South Florida               -0.0136   4.98e+05  -2.73e-08      1.000   -9.76e+05    9.76e+05
+Offense_Southeast Missouri State    -0.0209   4.98e+05   -4.2e-08      1.000   -9.76e+05    9.76e+05
+Offense_Southeastern Louisiana      -0.0178   4.98e+05  -3.57e-08      1.000   -9.76e+05    9.76e+05
+Offense_Southern                    -0.0792   4.98e+05  -1.59e-07      1.000   -9.76e+05    9.76e+05
+Offense_Southern Illinois           -0.0024   4.98e+05  -4.82e-09      1.000   -9.76e+05    9.76e+05
+Offense_Southern Indiana            -0.0847   4.98e+05   -1.7e-07      1.000   -9.76e+05    9.76e+05
+Offense_Southern Miss               -0.0980   4.98e+05  -1.97e-07      1.000   -9.76e+05    9.76e+05
+Offense_Southern Utah               -0.0758   4.98e+05  -1.52e-07      1.000   -9.76e+05    9.76e+05
+Offense_Stanford                     0.0662   4.98e+05   1.33e-07      1.000   -9.76e+05    9.76e+05
+Offense_Stephen F Austin            -0.1142   4.98e+05  -2.29e-07      1.000   -9.76e+05    9.76e+05
+Offense_Stetson                     -0.0724   4.98e+05  -1.45e-07      1.000   -9.76e+05    9.76e+05
+Offense_Stonehill                   -0.0577   4.98e+05  -1.16e-07      1.000   -9.76e+05    9.76e+05
+Offense_Stony Brook                 -0.0649   4.98e+05   -1.3e-07      1.000   -9.76e+05    9.76e+05
+Offense_Syracuse                     0.0265   4.98e+05   5.32e-08      1.000   -9.76e+05    9.76e+05
+Offense_TAMU                         0.0858   4.98e+05   1.72e-07      1.000   -9.76e+05    9.76e+05
+Offense_TCU                          0.0142   4.98e+05   2.84e-08      1.000   -9.76e+05    9.76e+05
+Offense_Tarleton State              -0.1294   4.98e+05   -2.6e-07      1.000   -9.76e+05    9.76e+05
+Offense_Temple                       0.0176   4.98e+05   3.53e-08      1.000   -9.76e+05    9.76e+05
+Offense_Tennessee                    0.1319   4.98e+05   2.65e-07      1.000   -9.76e+05    9.76e+05
+Offense_Tennessee State             -0.0398   4.98e+05     -8e-08      1.000   -9.76e+05    9.76e+05
+Offense_Tennessee Tech              -0.0574   4.98e+05  -1.15e-07      1.000   -9.76e+05    9.76e+05
+Offense_Tennessee-Martin            -0.0684   4.98e+05  -1.37e-07      1.000   -9.76e+05    9.76e+05
+Offense_Texas                        0.1283   4.98e+05   2.58e-07      1.000   -9.76e+05    9.76e+05
+Offense_Texas A&M-Commerce          -0.1135   4.98e+05  -2.28e-07      1.000   -9.76e+05    9.76e+05
+Offense_Texas A&M-Corpus Christi     0.0045   4.98e+05   9.06e-09      1.000   -9.76e+05    9.76e+05
+Offense_Texas Southern              -0.1120   4.98e+05  -2.25e-07      1.000   -9.76e+05    9.76e+05
+Offense_Texas State                  0.0315   4.98e+05   6.32e-08      1.000   -9.76e+05    9.76e+05
+Offense_Texas Tech                   0.1761   4.98e+05   3.54e-07      1.000   -9.76e+05    9.76e+05
+Offense_Toledo                       0.0244   4.98e+05    4.9e-08      1.000   -9.76e+05    9.76e+05
+Offense_Towson                      -0.0112   4.98e+05  -2.25e-08      1.000   -9.76e+05    9.76e+05
+Offense_Troy                         0.0064   4.98e+05   1.29e-08      1.000   -9.76e+05    9.76e+05
+Offense_Tulane                       0.0054   4.98e+05   1.08e-08      1.000   -9.76e+05    9.76e+05
+Offense_Tulsa                       -0.0631   4.98e+05  -1.27e-07      1.000   -9.76e+05    9.76e+05
+Offense_UAB                          0.0892   4.98e+05   1.79e-07      1.000   -9.76e+05    9.76e+05
+Offense_UC-Davis                    -0.0970   4.98e+05  -1.95e-07      1.000   -9.76e+05    9.76e+05
+Offense_UC-Irvine                   -0.0030   4.98e+05  -6.04e-09      1.000   -9.76e+05    9.76e+05
+Offense_UC-Riverside                 0.0246   4.98e+05   4.95e-08      1.000   -9.76e+05    9.76e+05
+Offense_UC-San Diego                 0.0914   4.98e+05   1.84e-07      1.000   -9.76e+05    9.76e+05
+Offense_UC-Santa Barbara             0.0402   4.98e+05   8.06e-08      1.000   -9.76e+05    9.76e+05
+Offense_UCF                          0.0788   4.98e+05   1.58e-07      1.000   -9.76e+05    9.76e+05
+Offense_UCLA                         0.1071   4.98e+05   2.15e-07      1.000   -9.76e+05    9.76e+05
+Offense_UConn                        0.1632   4.98e+05   3.28e-07      1.000   -9.76e+05    9.76e+05
+Offense_UMBC                        -0.0103   4.98e+05  -2.08e-08      1.000   -9.76e+05    9.76e+05
+Offense_UMass                       -0.0453   4.98e+05  -9.09e-08      1.000   -9.76e+05    9.76e+05
+Offense_UNC-Asheville                0.0233   4.98e+05   4.68e-08      1.000   -9.76e+05    9.76e+05
+Offense_UNC-Greensboro              -0.0011   4.98e+05   -2.2e-09      1.000   -9.76e+05    9.76e+05
+Offense_UNC-Wilmington               0.0525   4.98e+05   1.05e-07      1.000   -9.76e+05    9.76e+05
+Offense_UNLV                         0.0326   4.98e+05   6.55e-08      1.000   -9.76e+05    9.76e+05
+Offense_USC                          0.1020   4.98e+05   2.05e-07      1.000   -9.76e+05    9.76e+05
+Offense_UT-Arlington                 0.0118   4.98e+05   2.38e-08      1.000   -9.76e+05    9.76e+05
+Offense_UTEP                         0.0092   4.98e+05   1.85e-08      1.000   -9.76e+05    9.76e+05
+Offense_UTRGV                       -0.0221   4.98e+05  -4.43e-08      1.000   -9.76e+05    9.76e+05
+Offense_UTSA                         0.0091   4.98e+05   1.83e-08      1.000   -9.76e+05    9.76e+05
+Offense_Utah                         0.0556   4.98e+05   1.12e-07      1.000   -9.76e+05    9.76e+05
+Offense_Utah State                   0.1384   4.98e+05   2.78e-07      1.000   -9.76e+05    9.76e+05
+Offense_Utah Tech                   -0.0436   4.98e+05  -8.75e-08      1.000   -9.76e+05    9.76e+05
+Offense_Utah Valley                 -0.0122   4.98e+05  -2.45e-08      1.000   -9.76e+05    9.76e+05
+Offense_VCU                          0.0925   4.98e+05   1.86e-07      1.000   -9.76e+05    9.76e+05
+Offense_VMI                         -0.0659   4.98e+05  -1.32e-07      1.000   -9.76e+05    9.76e+05
+Offense_Valparaiso                   0.0035   4.98e+05   7.13e-09      1.000   -9.76e+05    9.76e+05
+Offense_Vanderbilt                   0.1206   4.98e+05   2.42e-07      1.000   -9.76e+05    9.76e+05
+Offense_Vermont                     -0.0731   4.98e+05  -1.47e-07      1.000   -9.76e+05    9.76e+05
+Offense_Villanova                    0.1426   4.98e+05   2.86e-07      1.000   -9.76e+05    9.76e+05
+Offense_Virginia                     0.0633   4.98e+05   1.27e-07      1.000   -9.76e+05    9.76e+05
+Offense_Virginia Tech                0.0133   4.98e+05   2.68e-08      1.000   -9.76e+05    9.76e+05
+Offense_Wagner                      -0.1507   4.98e+05  -3.02e-07      1.000   -9.76e+05    9.76e+05
+Offense_Wake Forest                  0.0277   4.98e+05   5.57e-08      1.000   -9.76e+05    9.76e+05
+Offense_Washington                   0.0463   4.98e+05    9.3e-08      1.000   -9.76e+05    9.76e+05
+Offense_Washington State             0.0537   4.98e+05   1.08e-07      1.000   -9.76e+05    9.76e+05
+Offense_Weber State                 -0.0481   4.98e+05  -9.66e-08      1.000   -9.76e+05    9.76e+05
+Offense_West Georgia                -0.0900   4.98e+05  -1.81e-07      1.000   -9.76e+05    9.76e+05
+Offense_West Virginia                0.0643   4.98e+05   1.29e-07      1.000   -9.76e+05    9.76e+05
+Offense_Western Carolina            -0.1330   4.98e+05  -2.67e-07      1.000   -9.76e+05    9.76e+05
+Offense_Western Illinois            -0.0680   4.98e+05  -1.37e-07      1.000   -9.76e+05    9.76e+05
+Offense_Western Kentucky            -0.0193   4.98e+05  -3.88e-08      1.000   -9.76e+05    9.76e+05
+Offense_Western Michigan            -0.0626   4.98e+05  -1.26e-07      1.000   -9.76e+05    9.76e+05
+Offense_Wichita State                0.0046   4.98e+05   9.24e-09      1.000   -9.76e+05    9.76e+05
+Offense_William and Mary             0.0183   4.98e+05   3.68e-08      1.000   -9.76e+05    9.76e+05
+Offense_Winthrop                    -0.0080   4.98e+05  -1.61e-08      1.000   -9.76e+05    9.76e+05
+Offense_Wisconsin                    0.1686   4.98e+05   3.39e-07      1.000   -9.76e+05    9.76e+05
+Offense_Wisconsin-Green Bay         -0.0542   4.98e+05  -1.09e-07      1.000   -9.76e+05    9.76e+05
+Offense_Wisconsin-Milwaukee          0.0089   4.98e+05   1.79e-08      1.000   -9.76e+05    9.76e+05
+Offense_Wofford                      0.0425   4.98e+05   8.53e-08      1.000   -9.76e+05    9.76e+05
+Offense_Wright State                 0.0233   4.98e+05   4.68e-08      1.000   -9.76e+05    9.76e+05
+Offense_Wyoming                     -0.0202   4.98e+05  -4.06e-08      1.000   -9.76e+05    9.76e+05
+Offense_Xavier                       0.0841   4.98e+05   1.69e-07      1.000   -9.76e+05    9.76e+05
+Offense_Yale                         0.0779   4.98e+05   1.56e-07      1.000   -9.76e+05    9.76e+05
+Offense_Youngstown State            -0.0393   4.98e+05  -7.89e-08      1.000   -9.76e+05    9.76e+05
+Defense_Abilene Christian           -0.0145   4.94e+05  -2.93e-08      1.000   -9.69e+05    9.69e+05
+Defense_Air Force                    0.0352   4.94e+05   7.13e-08      1.000   -9.69e+05    9.69e+05
+Defense_Akron                       -0.0155   4.94e+05  -3.14e-08      1.000   -9.69e+05    9.69e+05
+Defense_Alabama                     -0.1259   4.94e+05  -2.55e-07      1.000   -9.69e+05    9.69e+05
+Defense_Alabama A&M                  0.0843   4.94e+05   1.71e-07      1.000   -9.69e+05    9.69e+05
+Defense_Alabama State                0.0694   4.94e+05    1.4e-07      1.000   -9.69e+05    9.69e+05
+Defense_Albany                       0.0611   4.94e+05   1.24e-07      1.000   -9.69e+05    9.69e+05
+Defense_Alcorn State                 0.0634   4.94e+05   1.28e-07      1.000   -9.69e+05    9.69e+05
+Defense_American                     0.0393   4.94e+05   7.95e-08      1.000   -9.69e+05    9.69e+05
+Defense_Appalachian State           -0.0585   4.94e+05  -1.18e-07      1.000   -9.69e+05    9.69e+05
+Defense_Arizona                     -0.1512   4.94e+05  -3.06e-07      1.000   -9.69e+05    9.69e+05
+Defense_Arizona State               -0.0989   4.94e+05     -2e-07      1.000   -9.69e+05    9.69e+05
+Defense_Arkansas                    -0.1384   4.94e+05   -2.8e-07      1.000   -9.69e+05    9.69e+05
+Defense_Arkansas State              -0.0668   4.94e+05  -1.35e-07      1.000   -9.69e+05    9.69e+05
+Defense_Arkansas-Little Rock        -0.0356   4.94e+05   -7.2e-08      1.000   -9.69e+05    9.69e+05
+Defense_Arkansas-Pine Bluff          0.1549   4.94e+05   3.13e-07      1.000   -9.69e+05    9.69e+05
+Defense_Army                         0.0726   4.94e+05   1.47e-07      1.000   -9.69e+05    9.69e+05
+Defense_Auburn                      -0.1653   4.94e+05  -3.34e-07      1.000   -9.69e+05    9.69e+05
+Defense_Austin Peay                  0.0453   4.94e+05   9.16e-08      1.000   -9.69e+05    9.69e+05
+Defense_BYU                         -0.0815   4.94e+05  -1.65e-07      1.000   -9.69e+05    9.69e+05
+Defense_Ball State                   0.0821   4.94e+05   1.66e-07      1.000   -9.69e+05    9.69e+05
+Defense_Baylor                      -0.0740   4.94e+05   -1.5e-07      1.000   -9.69e+05    9.69e+05
+Defense_Bellarmine                   0.1467   4.94e+05   2.97e-07      1.000   -9.69e+05    9.69e+05
+Defense_Belmont                      0.0431   4.94e+05   8.73e-08      1.000   -9.69e+05    9.69e+05
+Defense_Bethune-Cookman              0.0109   4.94e+05   2.21e-08      1.000   -9.69e+05    9.69e+05
+Defense_Binghamton                   0.0493   4.94e+05   9.97e-08      1.000   -9.69e+05    9.69e+05
+Defense_Boise State                 -0.0850   4.94e+05  -1.72e-07      1.000   -9.69e+05    9.69e+05
+Defense_Boston College              -0.0030   4.94e+05  -6.15e-09      1.000   -9.69e+05    9.69e+05
+Defense_Boston University            0.0327   4.94e+05   6.63e-08      1.000   -9.69e+05    9.69e+05
+Defense_Bowling Green                0.0420   4.94e+05    8.5e-08      1.000   -9.69e+05    9.69e+05
+Defense_Bradley                     -0.0344   4.94e+05  -6.95e-08      1.000   -9.69e+05    9.69e+05
+Defense_Brown                       -0.0027   4.94e+05  -5.41e-09      1.000   -9.69e+05    9.69e+05
+Defense_Bryant                      -0.0172   4.94e+05  -3.47e-08      1.000   -9.69e+05    9.69e+05
+Defense_Bucknell                    -0.0090   4.94e+05  -1.83e-08      1.000   -9.69e+05    9.69e+05
+Defense_Buffalo                      0.0717   4.94e+05   1.45e-07      1.000   -9.69e+05    9.69e+05
+Defense_Butler                      -0.0431   4.94e+05  -8.73e-08      1.000   -9.69e+05    9.69e+05
+Defense_Cal Poly                     0.0501   4.94e+05   1.01e-07      1.000   -9.69e+05    9.69e+05
+Defense_Cal State-Bakersfield        0.0573   4.94e+05   1.16e-07      1.000   -9.69e+05    9.69e+05
+Defense_Cal State-Fullerton          0.0562   4.94e+05   1.14e-07      1.000   -9.69e+05    9.69e+05
+Defense_Cal State-Long Beach         0.0630   4.94e+05   1.27e-07      1.000   -9.69e+05    9.69e+05
+Defense_Cal State-Northridge        -0.0447   4.94e+05  -9.04e-08      1.000   -9.69e+05    9.69e+05
+Defense_California                  -0.0191   4.94e+05  -3.87e-08      1.000   -9.69e+05    9.69e+05
+Defense_California Baptist           0.0066   4.94e+05   1.33e-08      1.000   -9.69e+05    9.69e+05
+Defense_Campbell                     0.0012   4.94e+05    2.5e-09      1.000   -9.69e+05    9.69e+05
+Defense_Canisius                     0.1513   4.94e+05   3.06e-07      1.000   -9.69e+05    9.69e+05
+Defense_Central Arkansas             0.0814   4.94e+05   1.65e-07      1.000   -9.69e+05    9.69e+05
+Defense_Central Connecticut         -0.0298   4.94e+05  -6.03e-08      1.000   -9.69e+05    9.69e+05
+Defense_Central Michigan             0.0207   4.94e+05   4.18e-08      1.000   -9.69e+05    9.69e+05
+Defense_Charleston Southern          0.0356   4.94e+05    7.2e-08      1.000   -9.69e+05    9.69e+05
+Defense_Charlotte                    0.0614   4.94e+05   1.24e-07      1.000   -9.69e+05    9.69e+05
+Defense_Chattanooga                  0.0336   4.94e+05    6.8e-08      1.000   -9.69e+05    9.69e+05
+Defense_Chicago State                0.0781   4.94e+05   1.58e-07      1.000   -9.69e+05    9.69e+05
+Defense_Cincinnati                  -0.1298   4.94e+05  -2.63e-07      1.000   -9.69e+05    9.69e+05
+Defense_Citadel                      0.1110   4.94e+05   2.25e-07      1.000   -9.69e+05    9.69e+05
+Defense_Clemson                     -0.1021   4.94e+05  -2.07e-07      1.000   -9.69e+05    9.69e+05
+Defense_Cleveland State             -0.0190   4.94e+05  -3.85e-08      1.000   -9.69e+05    9.69e+05
+Defense_Coastal Carolina             0.0788   4.94e+05    1.6e-07      1.000   -9.69e+05    9.69e+05
+Defense_Colgate                      0.0580   4.94e+05   1.17e-07      1.000   -9.69e+05    9.69e+05
+Defense_College of Charleston       -0.0009   4.94e+05  -1.73e-09      1.000   -9.69e+05    9.69e+05
+Defense_Colorado                    -0.0804   4.94e+05  -1.63e-07      1.000   -9.69e+05    9.69e+05
+Defense_Colorado State              -0.0724   4.94e+05  -1.46e-07      1.000   -9.69e+05    9.69e+05
+Defense_Columbia                     0.0775   4.94e+05   1.57e-07      1.000   -9.69e+05    9.69e+05
+Defense_Coppin State                 0.0679   4.94e+05   1.37e-07      1.000   -9.69e+05    9.69e+05
+Defense_Cornell                      0.0367   4.94e+05   7.43e-08      1.000   -9.69e+05    9.69e+05
+Defense_Creighton                   -0.1187   4.94e+05   -2.4e-07      1.000   -9.69e+05    9.69e+05
+Defense_Dartmouth                   -0.0227   4.94e+05  -4.59e-08      1.000   -9.69e+05    9.69e+05
+Defense_Davidson                     0.0234   4.94e+05   4.74e-08      1.000   -9.69e+05    9.69e+05
+Defense_Dayton                      -0.0143   4.94e+05  -2.89e-08      1.000   -9.69e+05    9.69e+05
+Defense_DePaul                      -0.0208   4.94e+05   -4.2e-08      1.000   -9.69e+05    9.69e+05
+Defense_Delaware                     0.0918   4.94e+05   1.86e-07      1.000   -9.69e+05    9.69e+05
+Defense_Delaware State               0.0548   4.94e+05   1.11e-07      1.000   -9.69e+05    9.69e+05
+Defense_Denver                       0.0377   4.94e+05   7.62e-08      1.000   -9.69e+05    9.69e+05
+Defense_Detroit-Mercy                0.0348   4.94e+05   7.03e-08      1.000   -9.69e+05    9.69e+05
+Defense_Drake                       -0.0765   4.94e+05  -1.55e-07      1.000   -9.69e+05    9.69e+05
+Defense_Drexel                      -0.0183   4.94e+05   -3.7e-08      1.000   -9.69e+05    9.69e+05
+Defense_Duke                        -0.2022   4.94e+05  -4.09e-07      1.000   -9.69e+05    9.69e+05
+Defense_Duquesne                    -0.0371   4.94e+05  -7.51e-08      1.000   -9.69e+05    9.69e+05
+Defense_East Carolina                0.0167   4.94e+05   3.38e-08      1.000   -9.69e+05    9.69e+05
+Defense_East Tennessee State        -0.0211   4.94e+05  -4.27e-08      1.000   -9.69e+05    9.69e+05
+Defense_Eastern Illinois             0.0202   4.94e+05   4.09e-08      1.000   -9.69e+05    9.69e+05
+Defense_Eastern Kentucky             0.0307   4.94e+05    6.2e-08      1.000   -9.69e+05    9.69e+05
+Defense_Eastern Michigan             0.0763   4.94e+05   1.54e-07      1.000   -9.69e+05    9.69e+05
+Defense_Eastern Washington           0.0360   4.94e+05   7.29e-08      1.000   -9.69e+05    9.69e+05
+Defense_Elon                         0.0123   4.94e+05   2.48e-08      1.000   -9.69e+05    9.69e+05
+Defense_Evansville                  -0.0189   4.94e+05  -3.82e-08      1.000   -9.69e+05    9.69e+05
+Defense_FAU                          0.0050   4.94e+05      1e-08      1.000   -9.69e+05    9.69e+05
+Defense_FDU                          0.0473   4.94e+05   9.56e-08      1.000   -9.69e+05    9.69e+05
+Defense_FGCU                         0.0120   4.94e+05   2.43e-08      1.000   -9.69e+05    9.69e+05
+Defense_FIU                         -0.0283   4.94e+05  -5.72e-08      1.000   -9.69e+05    9.69e+05
+Defense_Fairfield                    0.1010   4.94e+05   2.04e-07      1.000   -9.69e+05    9.69e+05
+Defense_Florida                     -0.1642   4.94e+05  -3.32e-07      1.000   -9.69e+05    9.69e+05
+Defense_Florida A&M                  0.0680   4.94e+05   1.38e-07      1.000   -9.69e+05    9.69e+05
+Defense_Florida State               -0.0835   4.94e+05  -1.69e-07      1.000   -9.69e+05    9.69e+05
+Defense_Fordham                      0.0307   4.94e+05   6.21e-08      1.000   -9.69e+05    9.69e+05
+Defense_Fresno State                 0.0109   4.94e+05   2.21e-08      1.000   -9.69e+05    9.69e+05
+Defense_Furman                      -0.0079   4.94e+05   -1.6e-08      1.000   -9.69e+05    9.69e+05
+Defense_Gardner-Webb                 0.0437   4.94e+05   8.85e-08      1.000   -9.69e+05    9.69e+05
+Defense_George Mason                -0.1228   4.94e+05  -2.48e-07      1.000   -9.69e+05    9.69e+05
+Defense_George Washington           -0.0385   4.94e+05   -7.8e-08      1.000   -9.69e+05    9.69e+05
+Defense_Georgetown                  -0.0893   4.94e+05  -1.81e-07      1.000   -9.69e+05    9.69e+05
+Defense_Georgia                     -0.1180   4.94e+05  -2.39e-07      1.000   -9.69e+05    9.69e+05
+Defense_Georgia Southern             0.0245   4.94e+05   4.97e-08      1.000   -9.69e+05    9.69e+05
+Defense_Georgia State                0.0659   4.94e+05   1.33e-07      1.000   -9.69e+05    9.69e+05
+Defense_Georgia Tech                -0.0578   4.94e+05  -1.17e-07      1.000   -9.69e+05    9.69e+05
+Defense_Gonzaga                     -0.1236   4.94e+05   -2.5e-07      1.000   -9.69e+05    9.69e+05
+Defense_Grambling State              0.0432   4.94e+05   8.73e-08      1.000   -9.69e+05    9.69e+05
+Defense_Grand Canyon                -0.0751   4.94e+05  -1.52e-07      1.000   -9.69e+05    9.69e+05
+Defense_Hampton                      0.0142   4.94e+05   2.87e-08      1.000   -9.69e+05    9.69e+05
+Defense_Harvard                      0.0386   4.94e+05    7.8e-08      1.000   -9.69e+05    9.69e+05
+Defense_Hawaii                       0.0054   4.94e+05   1.09e-08      1.000   -9.69e+05    9.69e+05
+Defense_High Point                   0.0132   4.94e+05   2.68e-08      1.000   -9.69e+05    9.69e+05
+Defense_Hofstra                     -0.0407   4.94e+05  -8.23e-08      1.000   -9.69e+05    9.69e+05
+Defense_Holy Cross                   0.0754   4.94e+05   1.53e-07      1.000   -9.69e+05    9.69e+05
+Defense_Houston                     -0.2243   4.94e+05  -4.54e-07      1.000   -9.69e+05    9.69e+05
+Defense_Houston Christian            0.0358   4.94e+05   7.25e-08      1.000   -9.69e+05    9.69e+05
+Defense_Howard                       0.1147   4.94e+05   2.32e-07      1.000   -9.69e+05    9.69e+05
+Defense_IUPUI                        0.1432   4.94e+05    2.9e-07      1.000   -9.69e+05    9.69e+05
+Defense_Idaho                        0.0800   4.94e+05   1.62e-07      1.000   -9.69e+05    9.69e+05
+Defense_Idaho State                  0.0136   4.94e+05   2.75e-08      1.000   -9.69e+05    9.69e+05
+Defense_Illinois                    -0.1262   4.94e+05  -2.55e-07      1.000   -9.69e+05    9.69e+05
+Defense_Illinois State               0.0328   4.94e+05   6.63e-08      1.000   -9.69e+05    9.69e+05
+Defense_Illinois-Chicago             0.0032   4.94e+05   6.43e-09      1.000   -9.69e+05    9.69e+05
+Defense_Incarnate Word               0.0495   4.94e+05      1e-07      1.000   -9.69e+05    9.69e+05
+Defense_Indiana                     -0.0852   4.94e+05  -1.72e-07      1.000   -9.69e+05    9.69e+05
+Defense_Indiana State                0.0407   4.94e+05   8.23e-08      1.000   -9.69e+05    9.69e+05
+Defense_Iona                         0.0044   4.94e+05   8.86e-09      1.000   -9.69e+05    9.69e+05
+Defense_Iowa                        -0.0088   4.94e+05  -1.78e-08      1.000   -9.69e+05    9.69e+05
+Defense_Iowa State                  -0.1573   4.94e+05  -3.18e-07      1.000   -9.69e+05    9.69e+05
+Defense_Jackson State                0.0360   4.94e+05   7.28e-08      1.000   -9.69e+05    9.69e+05
+Defense_Jacksonville                -0.0322   4.94e+05  -6.51e-08      1.000   -9.69e+05    9.69e+05
+Defense_Jacksonville State          -0.0185   4.94e+05  -3.75e-08      1.000   -9.69e+05    9.69e+05
+Defense_James Madison                0.0314   4.94e+05   6.36e-08      1.000   -9.69e+05    9.69e+05
+Defense_Kansas                      -0.1759   4.94e+05  -3.56e-07      1.000   -9.69e+05    9.69e+05
+Defense_Kansas State                -0.0612   4.94e+05  -1.24e-07      1.000   -9.69e+05    9.69e+05
+Defense_Kennesaw State              -0.0376   4.94e+05  -7.61e-08      1.000   -9.69e+05    9.69e+05
+Defense_Kent State                  -0.0474   4.94e+05  -9.58e-08      1.000   -9.69e+05    9.69e+05
+Defense_Kentucky                    -0.0860   4.94e+05  -1.74e-07      1.000   -9.69e+05    9.69e+05
+Defense_LSU                         -0.0933   4.94e+05  -1.89e-07      1.000   -9.69e+05    9.69e+05
+Defense_La Salle                     0.0205   4.94e+05   4.14e-08      1.000   -9.69e+05    9.69e+05
+Defense_Lafayette                    0.0208   4.94e+05   4.21e-08      1.000   -9.69e+05    9.69e+05
+Defense_Lamar                       -0.0248   4.94e+05  -5.01e-08      1.000   -9.69e+05    9.69e+05
+Defense_Le Moyne                     0.1312   4.94e+05   2.66e-07      1.000   -9.69e+05    9.69e+05
+Defense_Lehigh                       0.0487   4.94e+05   9.86e-08      1.000   -9.69e+05    9.69e+05
+Defense_Liberty                     -0.1030   4.94e+05  -2.08e-07      1.000   -9.69e+05    9.69e+05
+Defense_Lindenwood                   0.0224   4.94e+05   4.54e-08      1.000   -9.69e+05    9.69e+05
+Defense_Lipscomb                    -0.0424   4.94e+05  -8.58e-08      1.000   -9.69e+05    9.69e+05
+Defense_Long Island                 -0.0118   4.94e+05  -2.38e-08      1.000   -9.69e+05    9.69e+05
+Defense_Longwood                     0.0350   4.94e+05   7.08e-08      1.000   -9.69e+05    9.69e+05
+Defense_Louisiana Tech              -0.0110   4.94e+05  -2.22e-08      1.000   -9.69e+05    9.69e+05
+Defense_Louisiana-Lafayette          0.0497   4.94e+05      1e-07      1.000   -9.69e+05    9.69e+05
+Defense_Louisiana-Monroe             0.0823   4.94e+05   1.67e-07      1.000   -9.69e+05    9.69e+05
+Defense_Louisville                  -0.1153   4.94e+05  -2.33e-07      1.000   -9.69e+05    9.69e+05
+Defense_Loyola-Chicago              -0.0383   4.94e+05  -7.75e-08      1.000   -9.69e+05    9.69e+05
+Defense_Loyola-Maryland              0.0595   4.94e+05    1.2e-07      1.000   -9.69e+05    9.69e+05
+Defense_Loyola-Marymount            -0.0365   4.94e+05  -7.38e-08      1.000   -9.69e+05    9.69e+05
+Defense_Maine                       -0.0078   4.94e+05  -1.58e-08      1.000   -9.69e+05    9.69e+05
+Defense_Manhattan                    0.0833   4.94e+05   1.68e-07      1.000   -9.69e+05    9.69e+05
+Defense_Marist                      -0.0132   4.94e+05  -2.67e-08      1.000   -9.69e+05    9.69e+05
+Defense_Marquette                   -0.1253   4.94e+05  -2.54e-07      1.000   -9.69e+05    9.69e+05
+Defense_Marshall                    -0.0142   4.94e+05  -2.87e-08      1.000   -9.69e+05    9.69e+05
+Defense_Maryland                    -0.1482   4.94e+05     -3e-07      1.000   -9.69e+05    9.69e+05
+Defense_Maryland-Eastern Shore       0.1099   4.94e+05   2.22e-07      1.000   -9.69e+05    9.69e+05
+Defense_Massachusetts-Lowell         0.0839   4.94e+05    1.7e-07      1.000   -9.69e+05    9.69e+05
+Defense_McNeese State               -0.0638   4.94e+05  -1.29e-07      1.000   -9.69e+05    9.69e+05
+Defense_Memphis                     -0.0938   4.94e+05   -1.9e-07      1.000   -9.69e+05    9.69e+05
+Defense_Mercer                       0.0246   4.94e+05   4.99e-08      1.000   -9.69e+05    9.69e+05
+Defense_Mercyhurst                   0.0941   4.94e+05    1.9e-07      1.000   -9.69e+05    9.69e+05
+Defense_Merrimack                   -0.0374   4.94e+05  -7.56e-08      1.000   -9.69e+05    9.69e+05
+Defense_Miami                        0.0758   4.94e+05   1.53e-07      1.000   -9.69e+05    9.69e+05
+Defense_Miami-OH                     0.0256   4.94e+05   5.19e-08      1.000   -9.69e+05    9.69e+05
+Defense_Michigan                    -0.1421   4.94e+05  -2.88e-07      1.000   -9.69e+05    9.69e+05
+Defense_Michigan State              -0.1471   4.94e+05  -2.98e-07      1.000   -9.69e+05    9.69e+05
+Defense_Middle Tennessee            -0.0313   4.94e+05  -6.33e-08      1.000   -9.69e+05    9.69e+05
+Defense_Minnesota                   -0.0538   4.94e+05  -1.09e-07      1.000   -9.69e+05    9.69e+05
+Defense_Mississippi State           -0.0924   4.94e+05  -1.87e-07      1.000   -9.69e+05    9.69e+05
+Defense_Mississippi Valley State     0.1678   4.94e+05    3.4e-07      1.000   -9.69e+05    9.69e+05
+Defense_Missouri                    -0.0889   4.94e+05   -1.8e-07      1.000   -9.69e+05    9.69e+05
+Defense_Missouri State              -0.0072   4.94e+05  -1.45e-08      1.000   -9.69e+05    9.69e+05
+Defense_Missouri-Kansas City        -0.0093   4.94e+05  -1.88e-08      1.000   -9.69e+05    9.69e+05
+Defense_Monmouth                     0.0538   4.94e+05   1.09e-07      1.000   -9.69e+05    9.69e+05
+Defense_Montana                      0.0273   4.94e+05   5.53e-08      1.000   -9.69e+05    9.69e+05
+Defense_Montana State                0.0031   4.94e+05    6.3e-09      1.000   -9.69e+05    9.69e+05
+Defense_Morehead State               0.0602   4.94e+05   1.22e-07      1.000   -9.69e+05    9.69e+05
+Defense_Morgan State                 0.1238   4.94e+05   2.51e-07      1.000   -9.69e+05    9.69e+05
+Defense_Mount Saint Mary's           0.0220   4.94e+05   4.45e-08      1.000   -9.69e+05    9.69e+05
+Defense_Murray State                -0.0098   4.94e+05  -1.99e-08      1.000   -9.69e+05    9.69e+05
+Defense_NC State                    -0.0359   4.94e+05  -7.27e-08      1.000   -9.69e+05    9.69e+05
+Defense_NJIT                         0.0629   4.94e+05   1.27e-07      1.000   -9.69e+05    9.69e+05
+Defense_Navy                         0.0465   4.94e+05   9.41e-08      1.000   -9.69e+05    9.69e+05
+Defense_Nebraska                    -0.1053   4.94e+05  -2.13e-07      1.000   -9.69e+05    9.69e+05
+Defense_Nebraska-Omaha               0.0416   4.94e+05   8.41e-08      1.000   -9.69e+05    9.69e+05
+Defense_Nevada                      -0.0514   4.94e+05  -1.04e-07      1.000   -9.69e+05    9.69e+05
+Defense_New Hampshire                0.0895   4.94e+05   1.81e-07      1.000   -9.69e+05    9.69e+05
+Defense_New Mexico                  -0.1174   4.94e+05  -2.37e-07      1.000   -9.69e+05    9.69e+05
+Defense_New Mexico State            -0.0419   4.94e+05  -8.48e-08      1.000   -9.69e+05    9.69e+05
+Defense_New Orleans                  0.0837   4.94e+05   1.69e-07      1.000   -9.69e+05    9.69e+05
+Defense_Niagara                      0.0798   4.94e+05   1.61e-07      1.000   -9.69e+05    9.69e+05
+Defense_Nicholls State              -0.0056   4.94e+05  -1.12e-08      1.000   -9.69e+05    9.69e+05
+Defense_Norfolk State                0.0289   4.94e+05   5.84e-08      1.000   -9.69e+05    9.69e+05
+Defense_North Alabama                0.0133   4.94e+05   2.69e-08      1.000   -9.69e+05    9.69e+05
+Defense_North Carolina              -0.0593   4.94e+05   -1.2e-07      1.000   -9.69e+05    9.69e+05
+Defense_North Carolina A&T           0.0603   4.94e+05   1.22e-07      1.000   -9.69e+05    9.69e+05
+Defense_North Carolina Central       0.0940   4.94e+05    1.9e-07      1.000   -9.69e+05    9.69e+05
+Defense_North Dakota                 0.0916   4.94e+05   1.85e-07      1.000   -9.69e+05    9.69e+05
+Defense_North Dakota State           0.0480   4.94e+05   9.71e-08      1.000   -9.69e+05    9.69e+05
+Defense_North Florida                0.0936   4.94e+05   1.89e-07      1.000   -9.69e+05    9.69e+05
+Defense_North Texas                 -0.1011   4.94e+05  -2.05e-07      1.000   -9.69e+05    9.69e+05
+Defense_Northeastern                 0.0109   4.94e+05   2.21e-08      1.000   -9.69e+05    9.69e+05
+Defense_Northern Arizona             0.0465   4.94e+05    9.4e-08      1.000   -9.69e+05    9.69e+05
+Defense_Northern Colorado            0.0210   4.94e+05   4.26e-08      1.000   -9.69e+05    9.69e+05
+Defense_Northern Illinois            0.0657   4.94e+05   1.33e-07      1.000   -9.69e+05    9.69e+05
+Defense_Northern Iowa               -0.0263   4.94e+05  -5.32e-08      1.000   -9.69e+05    9.69e+05
+Defense_Northern Kentucky            0.0118   4.94e+05   2.39e-08      1.000   -9.69e+05    9.69e+05
+Defense_Northwestern                -0.1052   4.94e+05  -2.13e-07      1.000   -9.69e+05    9.69e+05
+Defense_Northwestern State           0.0048   4.94e+05   9.76e-09      1.000   -9.69e+05    9.69e+05
+Defense_Notre Dame                  -0.0193   4.94e+05  -3.91e-08      1.000   -9.69e+05    9.69e+05
+Defense_Oakland-Michigan             0.0282   4.94e+05    5.7e-08      1.000   -9.69e+05    9.69e+05
+Defense_Ohio                         0.0152   4.94e+05   3.08e-08      1.000   -9.69e+05    9.69e+05
+Defense_Ohio State                  -0.1084   4.94e+05  -2.19e-07      1.000   -9.69e+05    9.69e+05
+Defense_Oklahoma                    -0.0646   4.94e+05  -1.31e-07      1.000   -9.69e+05    9.69e+05
+Defense_Oklahoma State              -0.0526   4.94e+05  -1.06e-07      1.000   -9.69e+05    9.69e+05
+Defense_Old Dominion                 0.0722   4.94e+05   1.46e-07      1.000   -9.69e+05    9.69e+05
+Defense_Ole Miss                    -0.1287   4.94e+05   -2.6e-07      1.000   -9.69e+05    9.69e+05
+Defense_Oral Roberts                 0.0913   4.94e+05   1.85e-07      1.000   -9.69e+05    9.69e+05
+Defense_Oregon                      -0.1026   4.94e+05  -2.07e-07      1.000   -9.69e+05    9.69e+05
+Defense_Oregon State                -0.0159   4.94e+05  -3.22e-08      1.000   -9.69e+05    9.69e+05
+Defense_Pacific                      0.0330   4.94e+05   6.67e-08      1.000   -9.69e+05    9.69e+05
+Defense_Penn                         0.0720   4.94e+05   1.46e-07      1.000   -9.69e+05    9.69e+05
+Defense_Penn State                  -0.0580   4.94e+05  -1.17e-07      1.000   -9.69e+05    9.69e+05
+Defense_Pepperdine                   0.0333   4.94e+05   6.74e-08      1.000   -9.69e+05    9.69e+05
+Defense_Pitt                        -0.0674   4.94e+05  -1.36e-07      1.000   -9.69e+05    9.69e+05
+Defense_Portland                     0.0650   4.94e+05   1.31e-07      1.000   -9.69e+05    9.69e+05
+Defense_Portland State              -0.0228   4.94e+05  -4.61e-08      1.000   -9.69e+05    9.69e+05
+Defense_Prairie View A&M             0.1151   4.94e+05   2.33e-07      1.000   -9.69e+05    9.69e+05
+Defense_Presbyterian                 0.0471   4.94e+05   9.53e-08      1.000   -9.69e+05    9.69e+05
+Defense_Princeton                    0.0012   4.94e+05   2.47e-09      1.000   -9.69e+05    9.69e+05
+Defense_Providence                  -0.0542   4.94e+05   -1.1e-07      1.000   -9.69e+05    9.69e+05
+Defense_Purdue                      -0.0872   4.94e+05  -1.76e-07      1.000   -9.69e+05    9.69e+05
+Defense_Purdue-Fort Wayne            0.0390   4.94e+05   7.89e-08      1.000   -9.69e+05    9.69e+05
+Defense_Queens (N.C.)                0.0265   4.94e+05   5.37e-08      1.000   -9.69e+05    9.69e+05
+Defense_Quinnipiac                  -0.0085   4.94e+05  -1.72e-08      1.000   -9.69e+05    9.69e+05
+Defense_Radford                      0.0277   4.94e+05    5.6e-08      1.000   -9.69e+05    9.69e+05
+Defense_Rhode Island                -0.0191   4.94e+05  -3.86e-08      1.000   -9.69e+05    9.69e+05
+Defense_Rice                        -0.0030   4.94e+05  -6.04e-09      1.000   -9.69e+05    9.69e+05
+Defense_Richmond                     0.0347   4.94e+05   7.01e-08      1.000   -9.69e+05    9.69e+05
+Defense_Rider                        0.0830   4.94e+05   1.68e-07      1.000   -9.69e+05    9.69e+05
+Defense_Robert Morris               -0.0233   4.94e+05  -4.72e-08      1.000   -9.69e+05    9.69e+05
+Defense_Rutgers                     -0.0442   4.94e+05  -8.94e-08      1.000   -9.69e+05    9.69e+05
+Defense_SIU-Edwardsville            -0.0001   4.94e+05  -2.77e-10      1.000   -9.69e+05    9.69e+05
+Defense_SMU                         -0.0830   4.94e+05  -1.68e-07      1.000   -9.69e+05    9.69e+05
+Defense_Sacramento State             0.0418   4.94e+05   8.45e-08      1.000   -9.69e+05    9.69e+05
+Defense_Sacred Heart                 0.0657   4.94e+05   1.33e-07      1.000   -9.69e+05    9.69e+05
+Defense_Saint Bonaventure           -0.0529   4.94e+05  -1.07e-07      1.000   -9.69e+05    9.69e+05
+Defense_Saint Francis-PA             0.0731   4.94e+05   1.48e-07      1.000   -9.69e+05    9.69e+05
+Defense_Saint John's                -0.1913   4.94e+05  -3.87e-07      1.000   -9.69e+05    9.69e+05
+Defense_Saint Joseph's              -0.0740   4.94e+05   -1.5e-07      1.000   -9.69e+05    9.69e+05
+Defense_Saint Louis                 -0.0396   4.94e+05  -8.01e-08      1.000   -9.69e+05    9.69e+05
+Defense_Saint Mary's                -0.1460   4.94e+05  -2.95e-07      1.000   -9.69e+05    9.69e+05
+Defense_Saint Peter's                0.0069   4.94e+05    1.4e-08      1.000   -9.69e+05    9.69e+05
+Defense_Saint Thomas                 0.0285   4.94e+05   5.77e-08      1.000   -9.69e+05    9.69e+05
+Defense_Sam Houston State            0.0242   4.94e+05   4.89e-08      1.000   -9.69e+05    9.69e+05
+Defense_Samford                     -0.0021   4.94e+05  -4.16e-09      1.000   -9.69e+05    9.69e+05
+Defense_San Diego                    0.0279   4.94e+05   5.63e-08      1.000   -9.69e+05    9.69e+05
+Defense_San Diego State             -0.1600   4.94e+05  -3.24e-07      1.000   -9.69e+05    9.69e+05
+Defense_San Francisco               -0.1030   4.94e+05  -2.08e-07      1.000   -9.69e+05    9.69e+05
+Defense_San Jose State               0.0078   4.94e+05   1.59e-08      1.000   -9.69e+05    9.69e+05
+Defense_Santa Clara                 -0.0608   4.94e+05  -1.23e-07      1.000   -9.69e+05    9.69e+05
+Defense_Seattle                     -0.0190   4.94e+05  -3.84e-08      1.000   -9.69e+05    9.69e+05
+Defense_Seton Hall                  -0.0377   4.94e+05  -7.62e-08      1.000   -9.69e+05    9.69e+05
+Defense_Siena                        0.0294   4.94e+05   5.94e-08      1.000   -9.69e+05    9.69e+05
+Defense_South Alabama               -0.0234   4.94e+05  -4.73e-08      1.000   -9.69e+05    9.69e+05
+Defense_South Carolina              -0.0671   4.94e+05  -1.36e-07      1.000   -9.69e+05    9.69e+05
+Defense_South Carolina State        -0.0113   4.94e+05  -2.28e-08      1.000   -9.69e+05    9.69e+05
+Defense_South Carolina-Upstate       0.0960   4.94e+05   1.94e-07      1.000   -9.69e+05    9.69e+05
+Defense_South Dakota                 0.0771   4.94e+05   1.56e-07      1.000   -9.69e+05    9.69e+05
+Defense_South Dakota State          -0.0054   4.94e+05  -1.09e-08      1.000   -9.69e+05    9.69e+05
+Defense_South Florida               -0.0128   4.94e+05  -2.58e-08      1.000   -9.69e+05    9.69e+05
+Defense_Southeast Missouri State    -0.0059   4.94e+05   -1.2e-08      1.000   -9.69e+05    9.69e+05
+Defense_Southeastern Louisiana       0.0054   4.94e+05   1.09e-08      1.000   -9.69e+05    9.69e+05
+Defense_Southern                    -0.0276   4.94e+05  -5.59e-08      1.000   -9.69e+05    9.69e+05
+Defense_Southern Illinois           -0.0094   4.94e+05   -1.9e-08      1.000   -9.69e+05    9.69e+05
+Defense_Southern Indiana             0.0781   4.94e+05   1.58e-07      1.000   -9.69e+05    9.69e+05
+Defense_Southern Miss                0.0206   4.94e+05   4.17e-08      1.000   -9.69e+05    9.69e+05
+Defense_Southern Utah                0.0197   4.94e+05   3.98e-08      1.000   -9.69e+05    9.69e+05
+Defense_Stanford                    -0.0401   4.94e+05   -8.1e-08      1.000   -9.69e+05    9.69e+05
+Defense_Stephen F Austin            -0.0507   4.94e+05  -1.03e-07      1.000   -9.69e+05    9.69e+05
+Defense_Stetson                      0.1062   4.94e+05   2.15e-07      1.000   -9.69e+05    9.69e+05
+Defense_Stonehill                    0.0722   4.94e+05   1.46e-07      1.000   -9.69e+05    9.69e+05
+Defense_Stony Brook                  0.1158   4.94e+05   2.34e-07      1.000   -9.69e+05    9.69e+05
+Defense_Syracuse                    -0.0058   4.94e+05  -1.17e-08      1.000   -9.69e+05    9.69e+05
+Defense_TAMU                        -0.1477   4.94e+05  -2.99e-07      1.000   -9.69e+05    9.69e+05
+Defense_TCU                         -0.0996   4.94e+05  -2.02e-07      1.000   -9.69e+05    9.69e+05
+Defense_Tarleton State              -0.0153   4.94e+05   -3.1e-08      1.000   -9.69e+05    9.69e+05
+Defense_Temple                       0.0227   4.94e+05   4.58e-08      1.000   -9.69e+05    9.69e+05
+Defense_Tennessee                   -0.2259   4.94e+05  -4.57e-07      1.000   -9.69e+05    9.69e+05
+Defense_Tennessee State              0.0329   4.94e+05   6.65e-08      1.000   -9.69e+05    9.69e+05
+Defense_Tennessee Tech               0.0532   4.94e+05   1.08e-07      1.000   -9.69e+05    9.69e+05
+Defense_Tennessee-Martin             0.0560   4.94e+05   1.13e-07      1.000   -9.69e+05    9.69e+05
+Defense_Texas                       -0.0902   4.94e+05  -1.83e-07      1.000   -9.69e+05    9.69e+05
+Defense_Texas A&M-Commerce           0.0385   4.94e+05    7.8e-08      1.000   -9.69e+05    9.69e+05
+Defense_Texas A&M-Corpus Christi     0.0083   4.94e+05   1.68e-08      1.000   -9.69e+05    9.69e+05
+Defense_Texas Southern              -0.0119   4.94e+05   -2.4e-08      1.000   -9.69e+05    9.69e+05
+Defense_Texas State                  0.0532   4.94e+05   1.08e-07      1.000   -9.69e+05    9.69e+05
+Defense_Texas Tech                  -0.1229   4.94e+05  -2.49e-07      1.000   -9.69e+05    9.69e+05
+Defense_Toledo                       0.0933   4.94e+05   1.89e-07      1.000   -9.69e+05    9.69e+05
+Defense_Towson                      -0.0157   4.94e+05  -3.18e-08      1.000   -9.69e+05    9.69e+05
+Defense_Troy                        -0.0601   4.94e+05  -1.22e-07      1.000   -9.69e+05    9.69e+05
+Defense_Tulane                      -0.0134   4.94e+05  -2.71e-08      1.000   -9.69e+05    9.69e+05
+Defense_Tulsa                        0.0120   4.94e+05   2.43e-08      1.000   -9.69e+05    9.69e+05
+Defense_UAB                          0.0329   4.94e+05   6.66e-08      1.000   -9.69e+05    9.69e+05
+Defense_UC-Davis                    -0.0462   4.94e+05  -9.35e-08      1.000   -9.69e+05    9.69e+05
+Defense_UC-Irvine                   -0.1349   4.94e+05  -2.73e-07      1.000   -9.69e+05    9.69e+05
+Defense_UC-Riverside                 0.0041   4.94e+05   8.28e-09      1.000   -9.69e+05    9.69e+05
+Defense_UC-San Diego                -0.1128   4.94e+05  -2.28e-07      1.000   -9.69e+05    9.69e+05
+Defense_UC-Santa Barbara            -0.0251   4.94e+05  -5.09e-08      1.000   -9.69e+05    9.69e+05
+Defense_UCF                         -0.0388   4.94e+05  -7.86e-08      1.000   -9.69e+05    9.69e+05
+Defense_UCLA                        -0.1331   4.94e+05  -2.69e-07      1.000   -9.69e+05    9.69e+05
+Defense_UConn                       -0.0746   4.94e+05  -1.51e-07      1.000   -9.69e+05    9.69e+05
+Defense_UMBC                         0.0996   4.94e+05   2.01e-07      1.000   -9.69e+05    9.69e+05
+Defense_UMass                       -0.0153   4.94e+05   -3.1e-08      1.000   -9.69e+05    9.69e+05
+Defense_UNC-Asheville                0.0467   4.94e+05   9.46e-08      1.000   -9.69e+05    9.69e+05
+Defense_UNC-Greensboro              -0.0396   4.94e+05  -8.01e-08      1.000   -9.69e+05    9.69e+05
+Defense_UNC-Wilmington               0.0042   4.94e+05   8.56e-09      1.000   -9.69e+05    9.69e+05
+Defense_UNLV                        -0.0637   4.94e+05  -1.29e-07      1.000   -9.69e+05    9.69e+05
+Defense_USC                         -0.0445   4.94e+05     -9e-08      1.000   -9.69e+05    9.69e+05
+Defense_UT-Arlington                 0.0456   4.94e+05   9.22e-08      1.000   -9.69e+05    9.69e+05
+Defense_UTEP                        -0.0210   4.94e+05  -4.26e-08      1.000   -9.69e+05    9.69e+05
+Defense_UTRGV                        0.0348   4.94e+05   7.04e-08      1.000   -9.69e+05    9.69e+05
+Defense_UTSA                         0.0368   4.94e+05   7.45e-08      1.000   -9.69e+05    9.69e+05
+Defense_Utah                        -0.0824   4.94e+05  -1.67e-07      1.000   -9.69e+05    9.69e+05
+Defense_Utah State                  -0.0471   4.94e+05  -9.52e-08      1.000   -9.69e+05    9.69e+05
+Defense_Utah Tech                    0.0580   4.94e+05   1.17e-07      1.000   -9.69e+05    9.69e+05
+Defense_Utah Valley                 -0.0477   4.94e+05  -9.64e-08      1.000   -9.69e+05    9.69e+05
+Defense_VCU                         -0.1335   4.94e+05   -2.7e-07      1.000   -9.69e+05    9.69e+05
+Defense_VMI                          0.0575   4.94e+05   1.16e-07      1.000   -9.69e+05    9.69e+05
+Defense_Valparaiso                   0.0445   4.94e+05      9e-08      1.000   -9.69e+05    9.69e+05
+Defense_Vanderbilt                  -0.0666   4.94e+05  -1.35e-07      1.000   -9.69e+05    9.69e+05
+Defense_Vermont                     -0.0137   4.94e+05  -2.78e-08      1.000   -9.69e+05    9.69e+05
+Defense_Villanova                   -0.0480   4.94e+05  -9.71e-08      1.000   -9.69e+05    9.69e+05
+Defense_Virginia                    -0.0311   4.94e+05  -6.29e-08      1.000   -9.69e+05    9.69e+05
+Defense_Virginia Tech               -0.0130   4.94e+05  -2.63e-08      1.000   -9.69e+05    9.69e+05
+Defense_Wagner                       0.0438   4.94e+05   8.85e-08      1.000   -9.69e+05    9.69e+05
+Defense_Wake Forest                 -0.1079   4.94e+05  -2.18e-07      1.000   -9.69e+05    9.69e+05
+Defense_Washington                  -0.0442   4.94e+05  -8.95e-08      1.000   -9.69e+05    9.69e+05
+Defense_Washington State            -0.0119   4.94e+05   -2.4e-08      1.000   -9.69e+05    9.69e+05
+Defense_Weber State                  0.0632   4.94e+05   1.28e-07      1.000   -9.69e+05    9.69e+05
+Defense_West Georgia                 0.0783   4.94e+05   1.58e-07      1.000   -9.69e+05    9.69e+05
+Defense_West Virginia               -0.1479   4.94e+05  -2.99e-07      1.000   -9.69e+05    9.69e+05
+Defense_Western Carolina             0.0425   4.94e+05   8.59e-08      1.000   -9.69e+05    9.69e+05
+Defense_Western Illinois             0.1047   4.94e+05   2.12e-07      1.000   -9.69e+05    9.69e+05
+Defense_Western Kentucky            -0.0451   4.94e+05  -9.13e-08      1.000   -9.69e+05    9.69e+05
+Defense_Western Michigan             0.0597   4.94e+05   1.21e-07      1.000   -9.69e+05    9.69e+05
+Defense_Wichita State               -0.0324   4.94e+05  -6.55e-08      1.000   -9.69e+05    9.69e+05
+Defense_William and Mary             0.0661   4.94e+05   1.34e-07      1.000   -9.69e+05    9.69e+05
+Defense_Winthrop                     0.0119   4.94e+05   2.42e-08      1.000   -9.69e+05    9.69e+05
+Defense_Wisconsin                   -0.1044   4.94e+05  -2.11e-07      1.000   -9.69e+05    9.69e+05
+Defense_Wisconsin-Green Bay          0.0825   4.94e+05   1.67e-07      1.000   -9.69e+05    9.69e+05
+Defense_Wisconsin-Milwaukee         -0.0116   4.94e+05  -2.34e-08      1.000   -9.69e+05    9.69e+05
+Defense_Wofford                      0.0137   4.94e+05   2.78e-08      1.000   -9.69e+05    9.69e+05
+Defense_Wright State                 0.0506   4.94e+05   1.02e-07      1.000   -9.69e+05    9.69e+05
+Defense_Wyoming                     -0.0249   4.94e+05  -5.04e-08      1.000   -9.69e+05    9.69e+05
+Defense_Xavier                      -0.0857   4.94e+05  -1.73e-07      1.000   -9.69e+05    9.69e+05
+Defense_Yale                        -0.0325   4.94e+05  -6.58e-08      1.000   -9.69e+05    9.69e+05
+Defense_Youngstown State            -0.0263   4.94e+05  -5.32e-08      1.000   -9.69e+05    9.69e+05
+Home_Offense                         0.0392      0.003     15.234      0.000       0.034       0.044
+alpha                                0.0107      0.007      1.485      0.137      -0.003       0.025
+====================================================================================================

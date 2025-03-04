@@ -1,0 +1,743 @@
+                    GeneralizedPoisson Regression Results                     
+==============================================================================
+Dep. Variable:                 Points   No. Observations:                 8204
+Model:             GeneralizedPoisson   Df Residuals:                     7475
+Method:                           MLE   Df Model:                          728
+Date:                Tue, 11 Feb 2025   Pseudo R-squ.:                 0.06432
+Time:                        19:04:46   Log-Likelihood:                -29341.
+converged:                       True   LL-Null:                       -31358.
+Covariance Type:            nonrobust   LLR p-value:                     0.000
+====================================================================================================
+                                       coef    std err          z      P>|z|      [0.025      0.975]
+----------------------------------------------------------------------------------------------------
+const                                0.0416   1.45e+05   2.86e-07      1.000   -2.85e+05    2.85e+05
+Offense_Abilene Christian           -0.0890        nan        nan        nan         nan         nan
+Offense_Air Force                   -0.0538        nan        nan        nan         nan         nan
+Offense_Akron                        0.0436        nan        nan        nan         nan         nan
+Offense_Alabama                      0.2001        nan        nan        nan         nan         nan
+Offense_Alabama A&M                 -0.1570        nan        nan        nan         nan         nan
+Offense_Alabama State               -0.0613        nan        nan        nan         nan         nan
+Offense_Albany                      -0.0531        nan        nan        nan         nan         nan
+Offense_Alcorn State                -0.1150        nan        nan        nan         nan         nan
+Offense_American                    -0.0203        nan        nan        nan         nan         nan
+Offense_Appalachian State           -0.0415        nan        nan        nan         nan         nan
+Offense_Arizona                      0.1629        nan        nan        nan         nan         nan
+Offense_Arizona State                0.0596        nan        nan        nan         nan         nan
+Offense_Arkansas                     0.0876        nan        nan        nan         nan         nan
+Offense_Arkansas State               0.0301        nan        nan        nan         nan         nan
+Offense_Arkansas-Little Rock        -0.0754        nan        nan        nan         nan         nan
+Offense_Arkansas-Pine Bluff         -0.1276        nan        nan        nan         nan         nan
+Offense_Army                        -0.0321        nan        nan        nan         nan         nan
+Offense_Auburn                       0.2502        nan        nan        nan         nan         nan
+Offense_Austin Peay                 -0.0904        nan        nan        nan         nan         nan
+Offense_BYU                          0.1468        nan        nan        nan         nan         nan
+Offense_Ball State                  -0.0213        nan        nan        nan         nan         nan
+Offense_Baylor                       0.1830        nan        nan        nan         nan         nan
+Offense_Bellarmine                  -0.0358        nan        nan        nan         nan         nan
+Offense_Belmont                      0.0816        nan        nan        nan         nan         nan
+Offense_Bethune-Cookman             -0.1057        nan        nan        nan         nan         nan
+Offense_Binghamton                  -0.0760        nan        nan        nan         nan         nan
+Offense_Boise State                  0.1272        nan        nan        nan         nan         nan
+Offense_Boston College               0.0047        nan        nan        nan         nan         nan
+Offense_Boston University           -0.1030        nan        nan        nan         nan         nan
+Offense_Bowling Green               -0.0636        nan        nan        nan         nan         nan
+Offense_Bradley                      0.0687        nan        nan        nan         nan         nan
+Offense_Brown                       -0.0361        nan        nan        nan         nan         nan
+Offense_Bryant                       0.0027        nan        nan        nan         nan         nan
+Offense_Bucknell                    -0.0460        nan        nan        nan         nan         nan
+Offense_Buffalo                     -0.1156        nan        nan        nan         nan         nan
+Offense_Butler                       0.1083        nan        nan        nan         nan         nan
+Offense_Cal Poly                     0.0031        nan        nan        nan         nan         nan
+Offense_Cal State-Bakersfield       -0.0141        nan        nan        nan         nan         nan
+Offense_Cal State-Fullerton         -0.0993        nan        nan        nan         nan         nan
+Offense_Cal State-Long Beach        -0.0488        nan        nan        nan         nan         nan
+Offense_Cal State-Northridge         0.0010        nan        nan        nan         nan         nan
+Offense_California                   0.0571        nan        nan        nan         nan         nan
+Offense_California Baptist           0.0254        nan        nan        nan         nan         nan
+Offense_Campbell                    -0.0330        nan        nan        nan         nan         nan
+Offense_Canisius                    -0.0827        nan        nan        nan         nan         nan
+Offense_Central Arkansas            -0.1268        nan        nan        nan         nan         nan
+Offense_Central Connecticut         -0.0467        nan        nan        nan         nan         nan
+Offense_Central Michigan            -0.0462        nan        nan        nan         nan         nan
+Offense_Charleston Southern         -0.0795        nan        nan        nan         nan         nan
+Offense_Charlotte                   -0.0125        nan        nan        nan         nan         nan
+Offense_Chattanooga                  0.0533        nan        nan        nan         nan         nan
+Offense_Chicago State               -0.1839        nan        nan        nan         nan         nan
+Offense_Cincinnati                   0.0738        nan        nan        nan         nan         nan
+Offense_Citadel                     -0.1397        nan        nan        nan         nan         nan
+Offense_Clemson                      0.1366        nan        nan        nan         nan         nan
+Offense_Cleveland State             -0.0278        nan        nan        nan         nan         nan
+Offense_Coastal Carolina            -0.0602        nan        nan        nan         nan         nan
+Offense_Colgate                     -0.0210        nan        nan        nan         nan         nan
+Offense_College of Charleston        0.0078        nan        nan        nan         nan         nan
+Offense_Colorado                     0.0376        nan        nan        nan         nan         nan
+Offense_Colorado State               0.0704        nan        nan        nan         nan         nan
+Offense_Columbia                     0.0164        nan        nan        nan         nan         nan
+Offense_Coppin State                -0.2291        nan        nan        nan         nan         nan
+Offense_Cornell                      0.0791        nan        nan        nan         nan         nan
+Offense_Creighton                    0.1254        nan        nan        nan         nan         nan
+Offense_Dartmouth                   -0.0591        nan        nan        nan         nan         nan
+Offense_Davidson                     0.0678        nan        nan        nan         nan         nan
+Offense_Dayton                       0.1019        nan        nan        nan         nan         nan
+Offense_DePaul                       0.0463        nan        nan        nan         nan         nan
+Offense_Delaware                     0.0071        nan        nan        nan         nan         nan
+Offense_Delaware State              -0.0910        nan        nan        nan         nan         nan
+Offense_Denver                      -0.0768        nan        nan        nan         nan         nan
+Offense_Detroit-Mercy               -0.1278        nan        nan        nan         nan         nan
+Offense_Drake                        0.0836        nan        nan        nan         nan         nan
+Offense_Drexel                      -0.0291        nan        nan        nan         nan         nan
+Offense_Duke                         0.1979        nan        nan        nan         nan         nan
+Offense_Duquesne                    -0.0118        nan        nan        nan         nan         nan
+Offense_East Carolina                0.0029        nan        nan        nan         nan         nan
+Offense_East Tennessee State         0.0050        nan        nan        nan         nan         nan
+Offense_Eastern Illinois            -0.1449        nan        nan        nan         nan         nan
+Offense_Eastern Kentucky             0.0256        nan        nan        nan         nan         nan
+Offense_Eastern Michigan            -0.0546        nan        nan        nan         nan         nan
+Offense_Eastern Washington          -0.0302        nan        nan        nan         nan         nan
+Offense_Elon                         0.0083        nan        nan        nan         nan         nan
+Offense_Evansville                  -0.0865        nan        nan        nan         nan         nan
+Offense_FAU                          0.0739        nan        nan        nan         nan         nan
+Offense_FDU                         -0.0813        nan        nan        nan         nan         nan
+Offense_FGCU                         0.0165        nan        nan        nan         nan         nan
+Offense_FIU                         -0.0895        nan        nan        nan         nan         nan
+Offense_Fairfield                   -0.0718        nan        nan        nan         nan         nan
+Offense_Florida                      0.1836        nan        nan        nan         nan         nan
+Offense_Florida A&M                 -0.0992        nan        nan        nan         nan         nan
+Offense_Florida State                0.0426        nan        nan        nan         nan         nan
+Offense_Fordham                     -0.0072        nan        nan        nan         nan         nan
+Offense_Fresno State                -0.0554        nan        nan        nan         nan         nan
+Offense_Furman                       0.0129        nan        nan        nan         nan         nan
+Offense_Gardner-Webb                -0.0238        nan        nan        nan         nan         nan
+Offense_George Mason                 0.0066        nan        nan        nan         nan         nan
+Offense_George Washington           -0.0155        nan        nan        nan         nan         nan
+Offense_Georgetown                   0.0149        nan        nan        nan         nan         nan
+Offense_Georgia                      0.1004        nan        nan        nan         nan         nan
+Offense_Georgia Southern            -0.0670        nan        nan        nan         nan         nan
+Offense_Georgia State               -0.0229        nan        nan        nan         nan         nan
+Offense_Georgia Tech                 0.0199        nan        nan        nan         nan         nan
+Offense_Gonzaga                      0.1737        nan        nan        nan         nan         nan
+Offense_Grambling State             -0.1250        nan        nan        nan         nan         nan
+Offense_Grand Canyon                 0.0236        nan        nan        nan         nan         nan
+Offense_Hampton                     -0.0531        nan        nan        nan         nan         nan
+Offense_Harvard                     -0.0799        nan        nan        nan         nan         nan
+Offense_Hawaii                      -0.0076        nan        nan        nan         nan         nan
+Offense_High Point                   0.1020        nan        nan        nan         nan         nan
+Offense_Hofstra                     -0.0612        nan        nan        nan         nan         nan
+Offense_Holy Cross                  -0.0395        nan        nan        nan         nan         nan
+Offense_Houston                      0.1814        nan        nan        nan         nan         nan
+Offense_Houston Christian           -0.0344        nan        nan        nan         nan         nan
+Offense_Howard                      -0.0026        nan        nan        nan         nan         nan
+Offense_IUPUI                       -0.0040        nan        nan        nan         nan         nan
+Offense_Idaho                        0.0144        nan        nan        nan         nan         nan
+Offense_Idaho State                 -0.0022        nan        nan        nan         nan         nan
+Offense_Illinois                     0.1600        nan        nan        nan         nan         nan
+Offense_Illinois State               0.0850        nan        nan        nan         nan         nan
+Offense_Illinois-Chicago             0.0419        nan        nan        nan         nan         nan
+Offense_Incarnate Word               0.0052        nan        nan        nan         nan         nan
+Offense_Indiana                      0.0804        nan        nan        nan         nan         nan
+Offense_Indiana State                0.0151        nan        nan        nan         nan         nan
+Offense_Iona                        -0.1081        nan        nan        nan         nan         nan
+Offense_Iowa                         0.1412        nan        nan        nan         nan         nan
+Offense_Iowa State                   0.1414        nan        nan        nan         nan         nan
+Offense_Jackson State               -0.1001        nan        nan        nan         nan         nan
+Offense_Jacksonville                -0.0477        nan        nan        nan         nan         nan
+Offense_Jacksonville State           0.0508        nan        nan        nan         nan         nan
+Offense_James Madison                0.0409        nan        nan        nan         nan         nan
+Offense_Kansas                       0.1267        nan        nan        nan         nan         nan
+Offense_Kansas State                 0.0982        nan        nan        nan         nan         nan
+Offense_Kennesaw State              -0.0157        nan        nan        nan         nan         nan
+Offense_Kent State                  -0.0588        nan        nan        nan         nan         nan
+Offense_Kentucky                     0.2042        nan        nan        nan         nan         nan
+Offense_LSU                          0.0641        nan        nan        nan         nan         nan
+Offense_La Salle                    -0.0291        nan        nan        nan         nan         nan
+Offense_Lafayette                   -0.0867        nan        nan        nan         nan         nan
+Offense_Lamar                       -0.0471        nan        nan        nan         nan         nan
+Offense_Le Moyne                    -0.0763        nan        nan        nan         nan         nan
+Offense_Lehigh                      -0.0627        nan        nan        nan         nan         nan
+Offense_Liberty                      0.0440        nan        nan        nan         nan         nan
+Offense_Lindenwood                  -0.1434        nan        nan        nan         nan         nan
+Offense_Lipscomb                     0.0275        nan        nan        nan         nan         nan
+Offense_Long Island                 -0.1239        nan        nan        nan         nan         nan
+Offense_Longwood                    -0.0038        nan        nan        nan         nan         nan
+Offense_Louisiana Tech               0.0364        nan        nan        nan         nan         nan
+Offense_Louisiana-Lafayette         -0.0720        nan        nan        nan         nan         nan
+Offense_Louisiana-Monroe            -0.1233        nan        nan        nan         nan         nan
+Offense_Louisville                   0.1301        nan        nan        nan         nan         nan
+Offense_Loyola-Chicago               0.0046        nan        nan        nan         nan         nan
+Offense_Loyola-Maryland             -0.0672        nan        nan        nan         nan         nan
+Offense_Loyola-Marymount            -0.0064        nan        nan        nan         nan         nan
+Offense_Maine                       -0.0583        nan        nan        nan         nan         nan
+Offense_Manhattan                   -0.0196        nan        nan        nan         nan         nan
+Offense_Marist                      -0.0652        nan        nan        nan         nan         nan
+Offense_Marquette                    0.1344        nan        nan        nan         nan         nan
+Offense_Marshall                    -0.0199        nan        nan        nan         nan         nan
+Offense_Maryland                     0.1304        nan        nan        nan         nan         nan
+Offense_Maryland-Eastern Shore      -0.1570        nan        nan        nan         nan         nan
+Offense_Massachusetts-Lowell         0.0041        nan        nan        nan         nan         nan
+Offense_McNeese State                0.0647        nan        nan        nan         nan         nan
+Offense_Memphis                      0.1024        nan        nan        nan         nan         nan
+Offense_Mercer                      -0.0495        nan        nan        nan         nan         nan
+Offense_Mercyhurst                  -0.0885        nan        nan        nan         nan         nan
+Offense_Merrimack                   -0.0782        nan        nan        nan         nan         nan
+Offense_Miami                        0.0954        nan        nan        nan         nan         nan
+Offense_Miami-OH                     0.0208        nan        nan        nan         nan         nan
+Offense_Michigan                     0.1377        nan        nan        nan         nan         nan
+Offense_Michigan State               0.1304        nan        nan        nan         nan         nan
+Offense_Middle Tennessee             0.0185        nan        nan        nan         nan         nan
+Offense_Minnesota                    0.0576        nan        nan        nan         nan         nan
+Offense_Mississippi State            0.1458        nan        nan        nan         nan         nan
+Offense_Mississippi Valley State    -0.2829        nan        nan        nan         nan         nan
+Offense_Missouri                     0.1620        nan        nan        nan         nan         nan
+Offense_Missouri State              -0.0341        nan        nan        nan         nan         nan
+Offense_Missouri-Kansas City        -0.0412        nan        nan        nan         nan         nan
+Offense_Monmouth                    -0.0523        nan        nan        nan         nan         nan
+Offense_Montana                      0.0355        nan        nan        nan         nan         nan
+Offense_Montana State               -0.0081        nan        nan        nan         nan         nan
+Offense_Morehead State              -0.0822        nan        nan        nan         nan         nan
+Offense_Morgan State                -0.0657        nan        nan        nan         nan         nan
+Offense_Mount Saint Mary's          -0.0890        nan        nan        nan         nan         nan
+Offense_Murray State                 0.0082        nan        nan        nan         nan         nan
+Offense_NC State                     0.0361        nan        nan        nan         nan         nan
+Offense_NJIT                        -0.1421        nan        nan        nan         nan         nan
+Offense_Navy                        -0.0578        nan        nan        nan         nan         nan
+Offense_Nebraska                     0.0738        nan        nan        nan         nan         nan
+Offense_Nebraska-Omaha               0.0059        nan        nan        nan         nan         nan
+Offense_Nevada                       0.0983        nan        nan        nan         nan         nan
+Offense_New Hampshire               -0.1500        nan        nan        nan         nan         nan
+Offense_New Mexico                   0.0763        nan        nan        nan         nan         nan
+Offense_New Mexico State            -0.0216        nan        nan        nan         nan         nan
+Offense_New Orleans                 -0.0888        nan        nan        nan         nan         nan
+Offense_Niagara                     -0.0642        nan        nan        nan         nan         nan
+Offense_Nicholls State              -0.0037        nan        nan        nan         nan         nan
+Offense_Norfolk State               -0.0061        nan        nan        nan         nan         nan
+Offense_North Alabama                0.0413        nan        nan        nan         nan         nan
+Offense_North Carolina               0.1202        nan        nan        nan         nan         nan
+Offense_North Carolina A&T          -0.0843        nan        nan        nan         nan         nan
+Offense_North Carolina Central      -0.0389        nan        nan        nan         nan         nan
+Offense_North Dakota                 0.0085        nan        nan        nan         nan         nan
+Offense_North Dakota State           0.0932        nan        nan        nan         nan         nan
+Offense_North Florida                0.0309        nan        nan        nan         nan         nan
+Offense_North Texas                  0.0696        nan        nan        nan         nan         nan
+Offense_Northeastern                -0.0278        nan        nan        nan         nan         nan
+Offense_Northern Arizona            -0.0367        nan        nan        nan         nan         nan
+Offense_Northern Colorado            0.0488        nan        nan        nan         nan         nan
+Offense_Northern Illinois           -0.1536        nan        nan        nan         nan         nan
+Offense_Northern Iowa                0.0546        nan        nan        nan         nan         nan
+Offense_Northern Kentucky           -0.0564        nan        nan        nan         nan         nan
+Offense_Northwestern                 0.0939        nan        nan        nan         nan         nan
+Offense_Northwestern State          -0.0690        nan        nan        nan         nan         nan
+Offense_Notre Dame                   0.0803        nan        nan        nan         nan         nan
+Offense_Oakland-Michigan            -0.0055        nan        nan        nan         nan         nan
+Offense_Ohio                         0.0064        nan        nan        nan         nan         nan
+Offense_Ohio State                   0.1414        nan        nan        nan         nan         nan
+Offense_Oklahoma                     0.1363        nan        nan        nan         nan         nan
+Offense_Oklahoma State               0.0185        nan        nan        nan         nan         nan
+Offense_Old Dominion                -0.0796        nan        nan        nan         nan         nan
+Offense_Ole Miss                     0.1186        nan        nan        nan         nan         nan
+Offense_Oral Roberts                -0.0365        nan        nan        nan         nan         nan
+Offense_Oregon                       0.1183        nan        nan        nan         nan         nan
+Offense_Oregon State                 0.1159        nan        nan        nan         nan         nan
+Offense_Pacific                     -0.0474        nan        nan        nan         nan         nan
+Offense_Penn                        -0.0658        nan        nan        nan         nan         nan
+Offense_Penn State                   0.0865        nan        nan        nan         nan         nan
+Offense_Pepperdine                  -0.0170        nan        nan        nan         nan         nan
+Offense_Pitt                         0.1420        nan        nan        nan         nan         nan
+Offense_Portland                    -0.0582        nan        nan        nan         nan         nan
+Offense_Portland State              -0.0423        nan        nan        nan         nan         nan
+Offense_Prairie View A&M            -0.0635        nan        nan        nan         nan         nan
+Offense_Presbyterian                -0.0343        nan        nan        nan         nan         nan
+Offense_Princeton                    0.0095        nan        nan        nan         nan         nan
+Offense_Providence                   0.0802        nan        nan        nan         nan         nan
+Offense_Purdue                       0.1859        nan        nan        nan         nan         nan
+Offense_Purdue-Fort Wayne            0.0602        nan        nan        nan         nan         nan
+Offense_Queens (N.C.)               -0.0135        nan        nan        nan         nan         nan
+Offense_Quinnipiac                  -0.0509        nan        nan        nan         nan         nan
+Offense_Radford                      0.0183        nan        nan        nan         nan         nan
+Offense_Rhode Island                 0.0242        nan        nan        nan         nan         nan
+Offense_Rice                        -0.0113        nan        nan        nan         nan         nan
+Offense_Richmond                    -0.0341        nan        nan        nan         nan         nan
+Offense_Rider                       -0.0789        nan        nan        nan         nan         nan
+Offense_Robert Morris               -0.0193        nan        nan        nan         nan         nan
+Offense_Rutgers                      0.0994        nan        nan        nan         nan         nan
+Offense_SIU-Edwardsville            -0.0863        nan        nan        nan         nan         nan
+Offense_SMU                          0.1207        nan        nan        nan         nan         nan
+Offense_Sacramento State            -0.1162        nan        nan        nan         nan         nan
+Offense_Sacred Heart                -0.0400        nan        nan        nan         nan         nan
+Offense_Saint Bonaventure            0.0310        nan        nan        nan         nan         nan
+Offense_Saint Francis-PA            -0.0744        nan        nan        nan         nan         nan
+Offense_Saint John's                 0.0741        nan        nan        nan         nan         nan
+Offense_Saint Joseph's               0.0394        nan        nan        nan         nan         nan
+Offense_Saint Louis                  0.0370        nan        nan        nan         nan         nan
+Offense_Saint Mary's                 0.1226        nan        nan        nan         nan         nan
+Offense_Saint Peter's               -0.1174        nan        nan        nan         nan         nan
+Offense_Saint Thomas                 0.0734        nan        nan        nan         nan         nan
+Offense_Sam Houston State            0.0163        nan        nan        nan         nan         nan
+Offense_Samford                      0.0422        nan        nan        nan         nan         nan
+Offense_San Diego                   -0.0695        nan        nan        nan         nan         nan
+Offense_San Diego State              0.0381        nan        nan        nan         nan         nan
+Offense_San Francisco                0.0716        nan        nan        nan         nan         nan
+Offense_San Jose State               0.0326        nan        nan        nan         nan         nan
+Offense_Santa Clara                  0.1235        nan        nan        nan         nan         nan
+Offense_Seattle                      0.0117        nan        nan        nan         nan         nan
+Offense_Seton Hall                  -0.0404        nan        nan        nan         nan         nan
+Offense_Siena                       -0.0510        nan        nan        nan         nan         nan
+Offense_South Alabama               -0.0041        nan        nan        nan         nan         nan
+Offense_South Carolina               0.0172        nan        nan        nan         nan         nan
+Offense_South Carolina State        -0.0844        nan        nan        nan         nan         nan
+Offense_South Carolina-Upstate      -0.0926        nan        nan        nan         nan         nan
+Offense_South Dakota                 0.0226        nan        nan        nan         nan         nan
+Offense_South Dakota State           0.0508        nan        nan        nan         nan         nan
+Offense_South Florida               -0.0001        nan        nan        nan         nan         nan
+Offense_Southeast Missouri State    -0.0326        nan        nan        nan         nan         nan
+Offense_Southeastern Louisiana      -0.0547        nan        nan        nan         nan         nan
+Offense_Southern                    -0.0914        nan        nan        nan         nan         nan
+Offense_Southern Illinois           -0.0026        nan        nan        nan         nan         nan
+Offense_Southern Indiana            -0.0778        nan        nan        nan         nan         nan
+Offense_Southern Miss               -0.0930        nan        nan        nan         nan         nan
+Offense_Southern Utah               -0.0773        nan        nan        nan         nan         nan
+Offense_Stanford                     0.0946        nan        nan        nan         nan         nan
+Offense_Stephen F Austin            -0.1312        nan        nan        nan         nan         nan
+Offense_Stetson                     -0.0800        nan        nan        nan         nan         nan
+Offense_Stonehill                   -0.0619        nan        nan        nan         nan         nan
+Offense_Stony Brook                 -0.0603        nan        nan        nan         nan         nan
+Offense_Syracuse                     0.0335        nan        nan        nan         nan         nan
+Offense_TAMU                         0.1092        nan        nan        nan         nan         nan
+Offense_TCU                          0.0269        nan        nan        nan         nan         nan
+Offense_Tarleton State              -0.1339        nan        nan        nan         nan         nan
+Offense_Temple                       0.0260        nan        nan        nan         nan         nan
+Offense_Tennessee                    0.1417        nan        nan        nan         nan         nan
+Offense_Tennessee State             -0.0457        nan        nan        nan         nan         nan
+Offense_Tennessee Tech              -0.0647        nan        nan        nan         nan         nan
+Offense_Tennessee-Martin            -0.0892        nan        nan        nan         nan         nan
+Offense_Texas                        0.1437        nan        nan        nan         nan         nan
+Offense_Texas A&M-Commerce          -0.1200        nan        nan        nan         nan         nan
+Offense_Texas A&M-Corpus Christi     0.0105        nan        nan        nan         nan         nan
+Offense_Texas Southern              -0.1233        nan        nan        nan         nan         nan
+Offense_Texas State                  0.0189        nan        nan        nan         nan         nan
+Offense_Texas Tech                   0.1812        nan        nan        nan         nan         nan
+Offense_Toledo                       0.0392        nan        nan        nan         nan         nan
+Offense_Towson                      -0.0292        nan        nan        nan         nan         nan
+Offense_Troy                         0.0086        nan        nan        nan         nan         nan
+Offense_Tulane                      -0.0024        nan        nan        nan         nan         nan
+Offense_Tulsa                       -0.0584        nan        nan        nan         nan         nan
+Offense_UAB                          0.0827        nan        nan        nan         nan         nan
+Offense_UC-Davis                    -0.1061        nan        nan        nan         nan         nan
+Offense_UC-Irvine                    0.0038        nan        nan        nan         nan         nan
+Offense_UC-Riverside                 0.0027        nan        nan        nan         nan         nan
+Offense_UC-San Diego                 0.0798        nan        nan        nan         nan         nan
+Offense_UC-Santa Barbara             0.0452        nan        nan        nan         nan         nan
+Offense_UCF                          0.1036        nan        nan        nan         nan         nan
+Offense_UCLA                         0.1197        nan        nan        nan         nan         nan
+Offense_UConn                        0.1720        nan        nan        nan         nan         nan
+Offense_UMBC                        -0.0238        nan        nan        nan         nan         nan
+Offense_UMass                       -0.0245        nan        nan        nan         nan         nan
+Offense_UNC-Asheville                0.0248        nan        nan        nan         nan         nan
+Offense_UNC-Greensboro               0.0023        nan        nan        nan         nan         nan
+Offense_UNC-Wilmington               0.0398        nan        nan        nan         nan         nan
+Offense_UNLV                         0.0580        nan        nan        nan         nan         nan
+Offense_USC                          0.1054        nan        nan        nan         nan         nan
+Offense_UT-Arlington                 0.0081        nan        nan        nan         nan         nan
+Offense_UTEP                         0.0052        nan        nan        nan         nan         nan
+Offense_UTRGV                       -0.0154        nan        nan        nan         nan         nan
+Offense_UTSA                         0.0220        nan        nan        nan         nan         nan
+Offense_Utah                         0.0607        nan        nan        nan         nan         nan
+Offense_Utah State                   0.1184        nan        nan        nan         nan         nan
+Offense_Utah Tech                   -0.0680        nan        nan        nan         nan         nan
+Offense_Utah Valley                 -0.0151        nan        nan        nan         nan         nan
+Offense_VCU                          0.0774        nan        nan        nan         nan         nan
+Offense_VMI                         -0.0613        nan        nan        nan         nan         nan
+Offense_Valparaiso                  -0.0029        nan        nan        nan         nan         nan
+Offense_Vanderbilt                   0.1203        nan        nan        nan         nan         nan
+Offense_Vermont                     -0.1076        nan        nan        nan         nan         nan
+Offense_Villanova                    0.1582        nan        nan        nan         nan         nan
+Offense_Virginia                     0.0556        nan        nan        nan         nan         nan
+Offense_Virginia Tech                0.0384        nan        nan        nan         nan         nan
+Offense_Wagner                      -0.1637        nan        nan        nan         nan         nan
+Offense_Wake Forest                  0.0285        nan        nan        nan         nan         nan
+Offense_Washington                   0.0540        nan        nan        nan         nan         nan
+Offense_Washington State             0.0653        nan        nan        nan         nan         nan
+Offense_Weber State                 -0.0476        nan        nan        nan         nan         nan
+Offense_West Georgia                -0.0938        nan        nan        nan         nan         nan
+Offense_West Virginia                0.0780        nan        nan        nan         nan         nan
+Offense_Western Carolina            -0.1662        nan        nan        nan         nan         nan
+Offense_Western Illinois            -0.0961        nan        nan        nan         nan         nan
+Offense_Western Kentucky            -0.0148        nan        nan        nan         nan         nan
+Offense_Western Michigan            -0.0871        nan        nan        nan         nan         nan
+Offense_Wichita State                0.0128        nan        nan        nan         nan         nan
+Offense_William and Mary             0.0082        nan        nan        nan         nan         nan
+Offense_Winthrop                    -0.0101        nan        nan        nan         nan         nan
+Offense_Wisconsin                    0.1721        nan        nan        nan         nan         nan
+Offense_Wisconsin-Green Bay         -0.0604        nan        nan        nan         nan         nan
+Offense_Wisconsin-Milwaukee         -0.0067        nan        nan        nan         nan         nan
+Offense_Wofford                      0.0299        nan        nan        nan         nan         nan
+Offense_Wright State                 0.0215        nan        nan        nan         nan         nan
+Offense_Wyoming                     -0.0101        nan        nan        nan         nan         nan
+Offense_Xavier                       0.0967        nan        nan        nan         nan         nan
+Offense_Yale                         0.0755        nan        nan        nan         nan         nan
+Offense_Youngstown State            -0.0523        nan        nan        nan         nan         nan
+Defense_Abilene Christian            0.0028        nan        nan        nan         nan         nan
+Defense_Air Force                    0.0255        nan        nan        nan         nan         nan
+Defense_Akron                       -0.0255        nan        nan        nan         nan         nan
+Defense_Alabama                     -0.1434        nan        nan        nan         nan         nan
+Defense_Alabama A&M                  0.1088        nan        nan        nan         nan         nan
+Defense_Alabama State                0.0910        nan        nan        nan         nan         nan
+Defense_Albany                       0.0687        nan        nan        nan         nan         nan
+Defense_Alcorn State                 0.0701        nan        nan        nan         nan         nan
+Defense_American                     0.0578        nan        nan        nan         nan         nan
+Defense_Appalachian State           -0.0725        nan        nan        nan         nan         nan
+Defense_Arizona                     -0.1652        nan        nan        nan         nan         nan
+Defense_Arizona State               -0.1302        nan        nan        nan         nan         nan
+Defense_Arkansas                    -0.1457        nan        nan        nan         nan         nan
+Defense_Arkansas State              -0.0690        nan        nan        nan         nan         nan
+Defense_Arkansas-Little Rock        -0.0541        nan        nan        nan         nan         nan
+Defense_Arkansas-Pine Bluff          0.1724        nan        nan        nan         nan         nan
+Defense_Army                         0.0763        nan        nan        nan         nan         nan
+Defense_Auburn                      -0.1769        nan        nan        nan         nan         nan
+Defense_Austin Peay                  0.0263        nan        nan        nan         nan         nan
+Defense_BYU                         -0.0907        nan        nan        nan         nan         nan
+Defense_Ball State                   0.0842        nan        nan        nan         nan         nan
+Defense_Baylor                      -0.0932        nan        nan        nan         nan         nan
+Defense_Bellarmine                   0.1672        nan        nan        nan         nan         nan
+Defense_Belmont                      0.0358        nan        nan        nan         nan         nan
+Defense_Bethune-Cookman              0.0060        nan        nan        nan         nan         nan
+Defense_Binghamton                   0.0665        nan        nan        nan         nan         nan
+Defense_Boise State                 -0.0983        nan        nan        nan         nan         nan
+Defense_Boston College               0.0081        nan        nan        nan         nan         nan
+Defense_Boston University            0.0380        nan        nan        nan         nan         nan
+Defense_Bowling Green                0.0512        nan        nan        nan         nan         nan
+Defense_Bradley                     -0.0511        nan        nan        nan         nan         nan
+Defense_Brown                        0.0214        nan        nan        nan         nan         nan
+Defense_Bryant                      -0.0015        nan        nan        nan         nan         nan
+Defense_Bucknell                     0.0032        nan        nan        nan         nan         nan
+Defense_Buffalo                      0.0725        nan        nan        nan         nan         nan
+Defense_Butler                      -0.0619        nan        nan        nan         nan         nan
+Defense_Cal Poly                     0.0551        nan        nan        nan         nan         nan
+Defense_Cal State-Bakersfield        0.0668        nan        nan        nan         nan         nan
+Defense_Cal State-Fullerton          0.0426        nan        nan        nan         nan         nan
+Defense_Cal State-Long Beach         0.0683        nan        nan        nan         nan         nan
+Defense_Cal State-Northridge        -0.0410        nan        nan        nan         nan         nan
+Defense_California                  -0.0227        nan        nan        nan         nan         nan
+Defense_California Baptist          -0.0003        nan        nan        nan         nan         nan
+Defense_Campbell                    -0.0149        nan        nan        nan         nan         nan
+Defense_Canisius                     0.1622        nan        nan        nan         nan         nan
+Defense_Central Arkansas             0.0777        nan        nan        nan         nan         nan
+Defense_Central Connecticut         -0.0329        nan        nan        nan         nan         nan
+Defense_Central Michigan         -3.149e-20        nan        nan        nan         nan         nan
+Defense_Charleston Southern          0.0339        nan        nan        nan         nan         nan
+Defense_Charlotte                    0.0483        nan        nan        nan         nan         nan
+Defense_Chattanooga                  0.0213        nan        nan        nan         nan         nan
+Defense_Chicago State                0.0554        nan        nan        nan         nan         nan
+Defense_Cincinnati                  -0.1573        nan        nan        nan         nan         nan
+Defense_Citadel                      0.1192        nan        nan        nan         nan         nan
+Defense_Clemson                     -0.1049        nan        nan        nan         nan         nan
+Defense_Cleveland State             -0.0372        nan        nan        nan         nan         nan
+Defense_Coastal Carolina             0.0813        nan        nan        nan         nan         nan
+Defense_Colgate                      0.0559        nan        nan        nan         nan         nan
+Defense_College of Charleston       -0.0089        nan        nan        nan         nan         nan
+Defense_Colorado                    -0.0816        nan        nan        nan         nan         nan
+Defense_Colorado State              -0.0829        nan        nan        nan         nan         nan
+Defense_Columbia                     0.0654        nan        nan        nan         nan         nan
+Defense_Coppin State                 0.0868        nan        nan        nan         nan         nan
+Defense_Cornell                      0.0405        nan        nan        nan         nan         nan
+Defense_Creighton                   -0.1362        nan        nan        nan         nan         nan
+Defense_Dartmouth                    0.0220        nan        nan        nan         nan         nan
+Defense_Davidson                     0.0155        nan        nan        nan         nan         nan
+Defense_Dayton                      -0.0385        nan        nan        nan         nan         nan
+Defense_DePaul                      -0.0406        nan        nan        nan         nan         nan
+Defense_Delaware                     0.0779        nan        nan        nan         nan         nan
+Defense_Delaware State               0.0564        nan        nan        nan         nan         nan
+Defense_Denver                       0.0672        nan        nan        nan         nan         nan
+Defense_Detroit-Mercy                0.0246        nan        nan        nan         nan         nan
+Defense_Drake                       -0.0861        nan        nan        nan         nan         nan
+Defense_Drexel                      -0.0106        nan        nan        nan         nan         nan
+Defense_Duke                        -0.2219        nan        nan        nan         nan         nan
+Defense_Duquesne                    -0.0439        nan        nan        nan         nan         nan
+Defense_East Carolina               -0.0032        nan        nan        nan         nan         nan
+Defense_East Tennessee State        -0.0241        nan        nan        nan         nan         nan
+Defense_Eastern Illinois             0.0426        nan        nan        nan         nan         nan
+Defense_Eastern Kentucky             0.0458        nan        nan        nan         nan         nan
+Defense_Eastern Michigan             0.0854        nan        nan        nan         nan         nan
+Defense_Eastern Washington           0.0227        nan        nan        nan         nan         nan
+Defense_Elon                         0.0059        nan        nan        nan         nan         nan
+Defense_Evansville                  -0.0296        nan        nan        nan         nan         nan
+Defense_FAU                         -0.0150        nan        nan        nan         nan         nan
+Defense_FDU                          0.0729        nan        nan        nan         nan         nan
+Defense_FGCU                        -0.0017        nan        nan        nan         nan         nan
+Defense_FIU                         -0.0227        nan        nan        nan         nan         nan
+Defense_Fairfield                    0.1221        nan        nan        nan         nan         nan
+Defense_Florida                     -0.1811        nan        nan        nan         nan         nan
+Defense_Florida A&M                  0.0822        nan        nan        nan         nan         nan
+Defense_Florida State               -0.1102        nan        nan        nan         nan         nan
+Defense_Fordham                      0.0157        nan        nan        nan         nan         nan
+Defense_Fresno State                 0.0033        nan        nan        nan         nan         nan
+Defense_Furman                       0.0150        nan        nan        nan         nan         nan
+Defense_Gardner-Webb                 0.0398        nan        nan        nan         nan         nan
+Defense_George Mason                -0.1396        nan        nan        nan         nan         nan
+Defense_George Washington           -0.0553        nan        nan        nan         nan         nan
+Defense_Georgetown                  -0.1217        nan        nan        nan         nan         nan
+Defense_Georgia                     -0.1478        nan        nan        nan         nan         nan
+Defense_Georgia Southern             0.0328        nan        nan        nan         nan         nan
+Defense_Georgia State                0.0520        nan        nan        nan         nan         nan
+Defense_Georgia Tech                -0.0642        nan        nan        nan         nan         nan
+Defense_Gonzaga                     -0.1309        nan        nan        nan         nan         nan
+Defense_Grambling State              0.0586        nan        nan        nan         nan         nan
+Defense_Grand Canyon                -0.0913        nan        nan        nan         nan         nan
+Defense_Hampton                      0.0414        nan        nan        nan         nan         nan
+Defense_Harvard                      0.0455        nan        nan        nan         nan         nan
+Defense_Hawaii                      -0.0103        nan        nan        nan         nan         nan
+Defense_High Point                   0.0299        nan        nan        nan         nan         nan
+Defense_Hofstra                     -0.0425        nan        nan        nan         nan         nan
+Defense_Holy Cross                   0.0766        nan        nan        nan         nan         nan
+Defense_Houston                     -0.2478        nan        nan        nan         nan         nan
+Defense_Houston Christian            0.0447        nan        nan        nan         nan         nan
+Defense_Howard                       0.1258        nan        nan        nan         nan         nan
+Defense_IUPUI                        0.1441        nan        nan        nan         nan         nan
+Defense_Idaho                        0.0801        nan        nan        nan         nan         nan
+Defense_Idaho State                  0.0137        nan        nan        nan         nan         nan
+Defense_Illinois                    -0.1598        nan        nan        nan         nan         nan
+Defense_Illinois State               0.0115        nan        nan        nan         nan         nan
+Defense_Illinois-Chicago            -0.0014        nan        nan        nan         nan         nan
+Defense_Incarnate Word               0.0697        nan        nan        nan         nan         nan
+Defense_Indiana                     -0.0967        nan        nan        nan         nan         nan
+Defense_Indiana State                0.0339        nan        nan        nan         nan         nan
+Defense_Iona                         0.0112        nan        nan        nan         nan         nan
+Defense_Iowa                        -0.0331        nan        nan        nan         nan         nan
+Defense_Iowa State                  -0.1849        nan        nan        nan         nan         nan
+Defense_Jackson State                0.0353        nan        nan        nan         nan         nan
+Defense_Jacksonville                -0.0392        nan        nan        nan         nan         nan
+Defense_Jacksonville State        4.226e-05        nan        nan        nan         nan         nan
+Defense_James Madison                0.0056        nan        nan        nan         nan         nan
+Defense_Kansas                      -0.1973        nan        nan        nan         nan         nan
+Defense_Kansas State                -0.0632        nan        nan        nan         nan         nan
+Defense_Kennesaw State              -0.0368        nan        nan        nan         nan         nan
+Defense_Kent State                  -0.0849        nan        nan        nan         nan         nan
+Defense_Kentucky                    -0.0899        nan        nan        nan         nan         nan
+Defense_LSU                         -0.1150        nan        nan        nan         nan         nan
+Defense_La Salle                    -0.0033        nan        nan        nan         nan         nan
+Defense_Lafayette                    0.0265        nan        nan        nan         nan         nan
+Defense_Lamar                       -0.0088        nan        nan        nan         nan         nan
+Defense_Le Moyne                     0.1341        nan        nan        nan         nan         nan
+Defense_Lehigh                       0.0490        nan        nan        nan         nan         nan
+Defense_Liberty                     -0.1024        nan        nan        nan         nan         nan
+Defense_Lindenwood                   0.0300        nan        nan        nan         nan         nan
+Defense_Lipscomb                    -0.0422        nan        nan        nan         nan         nan
+Defense_Long Island                  0.0058        nan        nan        nan         nan         nan
+Defense_Longwood                     0.0209        nan        nan        nan         nan         nan
+Defense_Louisiana Tech              -0.0167        nan        nan        nan         nan         nan
+Defense_Louisiana-Lafayette          0.0678        nan        nan        nan         nan         nan
+Defense_Louisiana-Monroe             0.0757        nan        nan        nan         nan         nan
+Defense_Louisville                  -0.1312        nan        nan        nan         nan         nan
+Defense_Loyola-Chicago              -0.0421        nan        nan        nan         nan         nan
+Defense_Loyola-Maryland              0.0661        nan        nan        nan         nan         nan
+Defense_Loyola-Marymount            -0.0649        nan        nan        nan         nan         nan
+Defense_Maine                       -0.0110        nan        nan        nan         nan         nan
+Defense_Manhattan                    0.0946        nan        nan        nan         nan         nan
+Defense_Marist                      -0.0149        nan        nan        nan         nan         nan
+Defense_Marquette                   -0.1311        nan        nan        nan         nan         nan
+Defense_Marshall                    -0.0183        nan        nan        nan         nan         nan
+Defense_Maryland                    -0.1627        nan        nan        nan         nan         nan
+Defense_Maryland-Eastern Shore       0.1302        nan        nan        nan         nan         nan
+Defense_Massachusetts-Lowell         0.0675        nan        nan        nan         nan         nan
+Defense_McNeese State               -0.0732        nan        nan        nan         nan         nan
+Defense_Memphis                     -0.1051        nan        nan        nan         nan         nan
+Defense_Mercer                       0.0306        nan        nan        nan         nan         nan
+Defense_Mercyhurst                   0.1017        nan        nan        nan         nan         nan
+Defense_Merrimack                   -0.0494        nan        nan        nan         nan         nan
+Defense_Miami                        0.0710        nan        nan        nan         nan         nan
+Defense_Miami-OH                     0.0175        nan        nan        nan         nan         nan
+Defense_Michigan                    -0.1565        nan        nan        nan         nan         nan
+Defense_Michigan State              -0.1559        nan        nan        nan         nan         nan
+Defense_Middle Tennessee            -0.0434        nan        nan        nan         nan         nan
+Defense_Minnesota                   -0.0634        nan        nan        nan         nan         nan
+Defense_Mississippi State           -0.1048        nan        nan        nan         nan         nan
+Defense_Mississippi Valley State     0.1790        nan        nan        nan         nan         nan
+Defense_Missouri                    -0.1116        nan        nan        nan         nan         nan
+Defense_Missouri State               0.0008        nan        nan        nan         nan         nan
+Defense_Missouri-Kansas City         0.0024        nan        nan        nan         nan         nan
+Defense_Monmouth                     0.0493        nan        nan        nan         nan         nan
+Defense_Montana                      0.0402        nan        nan        nan         nan         nan
+Defense_Montana State            -1.265e-05        nan        nan        nan         nan         nan
+Defense_Morehead State               0.0556        nan        nan        nan         nan         nan
+Defense_Morgan State                 0.1246        nan        nan        nan         nan         nan
+Defense_Mount Saint Mary's           0.0253        nan        nan        nan         nan         nan
+Defense_Murray State                -0.0050        nan        nan        nan         nan         nan
+Defense_NC State                    -0.0611        nan        nan        nan         nan         nan
+Defense_NJIT                         0.0670        nan        nan        nan         nan         nan
+Defense_Navy                         0.0691        nan        nan        nan         nan         nan
+Defense_Nebraska                    -0.1180        nan        nan        nan         nan         nan
+Defense_Nebraska-Omaha               0.0371        nan        nan        nan         nan         nan
+Defense_Nevada                      -0.0615        nan        nan        nan         nan         nan
+Defense_New Hampshire                0.1007        nan        nan        nan         nan         nan
+Defense_New Mexico                  -0.1387        nan        nan        nan         nan         nan
+Defense_New Mexico State            -0.0181        nan        nan        nan         nan         nan
+Defense_New Orleans                  0.0902        nan        nan        nan         nan         nan
+Defense_Niagara                      0.0869        nan        nan        nan         nan         nan
+Defense_Nicholls State              -0.0074        nan        nan        nan         nan         nan
+Defense_Norfolk State                0.0312        nan        nan        nan         nan         nan
+Defense_North Alabama                0.0162        nan        nan        nan         nan         nan
+Defense_North Carolina              -0.0961        nan        nan        nan         nan         nan
+Defense_North Carolina A&T           0.0815        nan        nan        nan         nan         nan
+Defense_North Carolina Central       0.0964        nan        nan        nan         nan         nan
+Defense_North Dakota                 0.1044        nan        nan        nan         nan         nan
+Defense_North Dakota State           0.0500        nan        nan        nan         nan         nan
+Defense_North Florida                0.1105        nan        nan        nan         nan         nan
+Defense_North Texas                 -0.0982        nan        nan        nan         nan         nan
+Defense_Northeastern                 0.0170        nan        nan        nan         nan         nan
+Defense_Northern Arizona             0.0517        nan        nan        nan         nan         nan
+Defense_Northern Colorado            0.0194        nan        nan        nan         nan         nan
+Defense_Northern Illinois            0.0711        nan        nan        nan         nan         nan
+Defense_Northern Iowa               -0.0198        nan        nan        nan         nan         nan
+Defense_Northern Kentucky            0.0113        nan        nan        nan         nan         nan
+Defense_Northwestern                -0.1109        nan        nan        nan         nan         nan
+Defense_Northwestern State           0.0026        nan        nan        nan         nan         nan
+Defense_Notre Dame                  -0.0488        nan        nan        nan         nan         nan
+Defense_Oakland-Michigan             0.0201        nan        nan        nan         nan         nan
+Defense_Ohio                         0.0110        nan        nan        nan         nan         nan
+Defense_Ohio State                  -0.1542        nan        nan        nan         nan         nan
+Defense_Oklahoma                    -0.0795        nan        nan        nan         nan         nan
+Defense_Oklahoma State              -0.0607        nan        nan        nan         nan         nan
+Defense_Old Dominion                 0.0544        nan        nan        nan         nan         nan
+Defense_Ole Miss                    -0.1566        nan        nan        nan         nan         nan
+Defense_Oral Roberts                 0.1030        nan        nan        nan         nan         nan
+Defense_Oregon                      -0.1093        nan        nan        nan         nan         nan
+Defense_Oregon State                -0.0547        nan        nan        nan         nan         nan
+Defense_Pacific                      0.0350        nan        nan        nan         nan         nan
+Defense_Penn                         0.0695        nan        nan        nan         nan         nan
+Defense_Penn State                  -0.0836        nan        nan        nan         nan         nan
+Defense_Pepperdine                   0.0033        nan        nan        nan         nan         nan
+Defense_Pitt                        -0.0964        nan        nan        nan         nan         nan
+Defense_Portland                     0.0706        nan        nan        nan         nan         nan
+Defense_Portland State               0.0023        nan        nan        nan         nan         nan
+Defense_Prairie View A&M             0.1222        nan        nan        nan         nan         nan
+Defense_Presbyterian                 0.0661        nan        nan        nan         nan         nan
+Defense_Princeton                   -0.0107        nan        nan        nan         nan         nan
+Defense_Providence                  -0.0790        nan        nan        nan         nan         nan
+Defense_Purdue                      -0.1297        nan        nan        nan         nan         nan
+Defense_Purdue-Fort Wayne            0.0370        nan        nan        nan         nan         nan
+Defense_Queens (N.C.)                0.0174        nan        nan        nan         nan         nan
+Defense_Quinnipiac                  -0.0021        nan        nan        nan         nan         nan
+Defense_Radford                      0.0409        nan        nan        nan         nan         nan
+Defense_Rhode Island                -0.0335        nan        nan        nan         nan         nan
+Defense_Rice                        -0.0208        nan        nan        nan         nan         nan
+Defense_Richmond                     0.0225        nan        nan        nan         nan         nan
+Defense_Rider                        0.0839        nan        nan        nan         nan         nan
+Defense_Robert Morris               -0.0173        nan        nan        nan         nan         nan
+Defense_Rutgers                     -0.0741        nan        nan        nan         nan         nan
+Defense_SIU-Edwardsville            -0.0119        nan        nan        nan         nan         nan
+Defense_SMU                         -0.1041        nan        nan        nan         nan         nan
+Defense_Sacramento State             0.0477        nan        nan        nan         nan         nan
+Defense_Sacred Heart                 0.0733        nan        nan        nan         nan         nan
+Defense_Saint Bonaventure           -0.0500        nan        nan        nan         nan         nan
+Defense_Saint Francis-PA             0.0727        nan        nan        nan         nan         nan
+Defense_Saint John's                -0.2161        nan        nan        nan         nan         nan
+Defense_Saint Joseph's              -0.0858        nan        nan        nan         nan         nan
+Defense_Saint Louis                 -0.0444        nan        nan        nan         nan         nan
+Defense_Saint Mary's                -0.1518        nan        nan        nan         nan         nan
+Defense_Saint Peter's                0.0179        nan        nan        nan         nan         nan
+Defense_Saint Thomas                 0.0365        nan        nan        nan         nan         nan
+Defense_Sam Houston State            0.0405        nan        nan        nan         nan         nan
+Defense_Samford                     -0.0009        nan        nan        nan         nan         nan
+Defense_San Diego                    0.0181        nan        nan        nan         nan         nan
+Defense_San Diego State             -0.1729        nan        nan        nan         nan         nan
+Defense_San Francisco               -0.1149        nan        nan        nan         nan         nan
+Defense_San Jose State              -0.0057        nan        nan        nan         nan         nan
+Defense_Santa Clara                 -0.0751        nan        nan        nan         nan         nan
+Defense_Seattle                     -0.0112        nan        nan        nan         nan         nan
+Defense_Seton Hall                  -0.0392        nan        nan        nan         nan         nan
+Defense_Siena                        0.0226        nan        nan        nan         nan         nan
+Defense_South Alabama               -0.0274        nan        nan        nan         nan         nan
+Defense_South Carolina              -0.1013        nan        nan        nan         nan         nan
+Defense_South Carolina State         0.0019        nan        nan        nan         nan         nan
+Defense_South Carolina-Upstate       0.1108        nan        nan        nan         nan         nan
+Defense_South Dakota                 0.0959        nan        nan        nan         nan         nan
+Defense_South Dakota State          -0.0243        nan        nan        nan         nan         nan
+Defense_South Florida               -0.0047        nan        nan        nan         nan         nan
+Defense_Southeast Missouri State     0.0208        nan        nan        nan         nan         nan
+Defense_Southeastern Louisiana      -0.0053        nan        nan        nan         nan         nan
+Defense_Southern                    -0.0190        nan        nan        nan         nan         nan
+Defense_Southern Illinois           -0.0169        nan        nan        nan         nan         nan
+Defense_Southern Indiana             0.0792        nan        nan        nan         nan         nan
+Defense_Southern Miss                0.0064        nan        nan        nan         nan         nan
+Defense_Southern Utah                0.0129        nan        nan        nan         nan         nan
+Defense_Stanford                    -0.0523        nan        nan        nan         nan         nan
+Defense_Stephen F Austin            -0.0613        nan        nan        nan         nan         nan
+Defense_Stetson                      0.0994        nan        nan        nan         nan         nan
+Defense_Stonehill                    0.0652        nan        nan        nan         nan         nan
+Defense_Stony Brook                  0.1158        nan        nan        nan         nan         nan
+Defense_Syracuse                    -0.0240        nan        nan        nan         nan         nan
+Defense_TAMU                        -0.1700        nan        nan        nan         nan         nan
+Defense_TCU                         -0.1193        nan        nan        nan         nan         nan
+Defense_Tarleton State               0.0059        nan        nan        nan         nan         nan
+Defense_Temple                      -0.0041        nan        nan        nan         nan         nan
+Defense_Tennessee                   -0.2611        nan        nan        nan         nan         nan
+Defense_Tennessee State              0.0482        nan        nan        nan         nan         nan
+Defense_Tennessee Tech               0.0455        nan        nan        nan         nan         nan
+Defense_Tennessee-Martin             0.0663        nan        nan        nan         nan         nan
+Defense_Texas                       -0.1194        nan        nan        nan         nan         nan
+Defense_Texas A&M-Commerce           0.0372        nan        nan        nan         nan         nan
+Defense_Texas A&M-Corpus Christi     0.0118        nan        nan        nan         nan         nan
+Defense_Texas Southern               0.0070        nan        nan        nan         nan         nan
+Defense_Texas State                  0.0542        nan        nan        nan         nan         nan
+Defense_Texas Tech                  -0.1467        nan        nan        nan         nan         nan
+Defense_Toledo                       0.0794        nan        nan        nan         nan         nan
+Defense_Towson                      -0.0094        nan        nan        nan         nan         nan
+Defense_Troy                        -0.0598        nan        nan        nan         nan         nan
+Defense_Tulane                      -0.0341        nan        nan        nan         nan         nan
+Defense_Tulsa                        0.0166        nan        nan        nan         nan         nan
+Defense_UAB                          0.0204        nan        nan        nan         nan         nan
+Defense_UC-Davis                    -0.0584        nan        nan        nan         nan         nan
+Defense_UC-Irvine                   -0.1271        nan        nan        nan         nan         nan
+Defense_UC-Riverside                -0.0063        nan        nan        nan         nan         nan
+Defense_UC-San Diego                -0.1037        nan        nan        nan         nan         nan
+Defense_UC-Santa Barbara            -0.0144        nan        nan        nan         nan         nan
+Defense_UCF                         -0.0621        nan        nan        nan         nan         nan
+Defense_UCLA                        -0.1633        nan        nan        nan         nan         nan
+Defense_UConn                       -0.0962        nan        nan        nan         nan         nan
+Defense_UMBC                         0.0918        nan        nan        nan         nan         nan
+Defense_UMass                       -0.0268        nan        nan        nan         nan         nan
+Defense_UNC-Asheville                0.0479        nan        nan        nan         nan         nan
+Defense_UNC-Greensboro              -0.0181        nan        nan        nan         nan         nan
+Defense_UNC-Wilmington              -0.0137        nan        nan        nan         nan         nan
+Defense_UNLV                        -0.0533        nan        nan        nan         nan         nan
+Defense_USC                         -0.0760        nan        nan        nan         nan         nan
+Defense_UT-Arlington                 0.0576        nan        nan        nan         nan         nan
+Defense_UTEP                        -0.0396        nan        nan        nan         nan         nan
+Defense_UTRGV                        0.0338        nan        nan        nan         nan         nan
+Defense_UTSA                         0.0379        nan        nan        nan         nan         nan
+Defense_Utah                        -0.0983        nan        nan        nan         nan         nan
+Defense_Utah State                  -0.0714        nan        nan        nan         nan         nan
+Defense_Utah Tech                    0.0523        nan        nan        nan         nan         nan
+Defense_Utah Valley                 -0.0546        nan        nan        nan         nan         nan
+Defense_VCU                         -0.1458        nan        nan        nan         nan         nan
+Defense_VMI                          0.0564        nan        nan        nan         nan         nan
+Defense_Valparaiso                   0.0368        nan        nan        nan         nan         nan
+Defense_Vanderbilt                  -0.0807        nan        nan        nan         nan         nan
+Defense_Vermont                     -0.0020        nan        nan        nan         nan         nan
+Defense_Villanova                   -0.0523        nan        nan        nan         nan         nan
+Defense_Virginia                    -0.0603        nan        nan        nan         nan         nan
+Defense_Virginia Tech               -0.0155        nan        nan        nan         nan         nan
+Defense_Wagner                       0.0582        nan        nan        nan         nan         nan
+Defense_Wake Forest                 -0.1441        nan        nan        nan         nan         nan
+Defense_Washington                  -0.0753        nan        nan        nan         nan         nan
+Defense_Washington State            -0.0381        nan        nan        nan         nan         nan
+Defense_Weber State                  0.0646        nan        nan        nan         nan         nan
+Defense_West Georgia                 0.0821        nan        nan        nan         nan         nan
+Defense_West Virginia               -0.1653        nan        nan        nan         nan         nan
+Defense_Western Carolina             0.0419        nan        nan        nan         nan         nan
+Defense_Western Illinois             0.1265        nan        nan        nan         nan         nan
+Defense_Western Kentucky            -0.0595        nan        nan        nan         nan         nan
+Defense_Western Michigan             0.0743        nan        nan        nan         nan         nan
+Defense_Wichita State               -0.0300        nan        nan        nan         nan         nan
+Defense_William and Mary             0.0699        nan        nan        nan         nan         nan
+Defense_Winthrop                     0.0204        nan        nan        nan         nan         nan
+Defense_Wisconsin                   -0.1235        nan        nan        nan         nan         nan
+Defense_Wisconsin-Green Bay          0.1017        nan        nan        nan         nan         nan
+Defense_Wisconsin-Milwaukee         -0.0192        nan        nan        nan         nan         nan
+Defense_Wofford                      0.0297        nan        nan        nan         nan         nan
+Defense_Wright State                 0.0382        nan        nan        nan         nan         nan
+Defense_Wyoming                     -0.0431        nan        nan        nan         nan         nan
+Defense_Xavier                      -0.0911        nan        nan        nan         nan         nan
+Defense_Yale                        -0.0361        nan        nan        nan         nan         nan
+Defense_Youngstown State            -0.0248        nan        nan        nan         nan         nan
+alpha                                0.0162      0.008      2.039      0.041       0.001       0.032
+====================================================================================================
