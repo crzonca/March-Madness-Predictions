@@ -1,0 +1,32 @@
+{
+  "resource_locations": {
+    "true_records": "resources/true_records.csv",
+    "name_to_school": "resources/full_names_to_school.json",
+    "school_to_logo": "resources/school_to_logo_file.json",
+    "tournament_results": "resources/tournament_results.json",
+    "bracket": "resources/bracket.json",
+    "stat_lines": "resources/Team Statlines.csv"
+  },
+  "output_locations": {
+    "model4_conf_rankings": "output/Model 4/Conference Rankings.txt",
+    "model4_intra_conf_rankings": "output/Model 4/Intra-Conference Rankings.txt",
+    "model5_rankings": "output/Model 5/Model Rankings.csv",
+    "model6_rankings": "output/Model 6/Model Rankings.csv",
+    "model6_pickle": "output/Model 6/Generalized_Poisson.pickle",
+    "model6_possessions_pickle": "output/Model 6/Possessions_Model.pickle",
+    "model6_summary": "output/Model 6/Generalized Poisson Summary.txt",
+    "model6_possessions_summary": "output/Model 6/Possessions Model Summary.txt",
+    "model6_offense_defense": "output/Model 6/OffenseDefense.png",
+    "model7_rankings": "output/Model 7/Model Rankings.csv",
+    "model7_chances": "output/Model 7/Individual Chances.csv",
+    "model7_scores": "output/Model 7/Individual Scores.csv",
+    "model7_pickle": "output/Model 7/Generalized_Poisson.pickle",
+    "model7_possessions_pickle": "output/Model 7/Possessions_Model.pickle",
+    "model7_summary": "output/Model 7/Generalized Poisson Summary.txt",
+    "model7_possessions_summary": "output/Model 7/Possessions Model Summary.txt",
+    "model7_offense_defense": "output/Model 7/OffenseDefense.png",
+    "team_rankings": "output/Model {}/1 Team Rankings.txt",
+    "round_chances": "output/Model {}/2 Round Chances.txt"
+  },
+  "use_persisted_poisson": false
+}

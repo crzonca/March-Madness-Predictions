@@ -1,0 +1,365 @@
+team,wins,losses,conference
+Duke,25,3,ACC
+Clemson,23,5,ACC
+Louisville,22,6,ACC
+SMU,21,7,ACC
+Wake Forest,19,9,ACC
+Stanford,18,10,ACC
+North Carolina,18,11,ACC
+Pitt,16,12,ACC
+Florida State,16,12,ACC
+Virginia,14,14,ACC
+Georgia Tech,14,14,ACC
+California,12,16,ACC
+Notre Dame,12,16,ACC
+Boston College,12,16,ACC
+Syracuse,12,16,ACC
+Virginia Tech,12,16,ACC
+NC State,11,17,ACC
+Miami,6,22,ACC
+Bryant,17,11,America East
+Vermont,17,11,America East
+Massachusetts-Lowell,16,12,America East
+Maine,16,12,America East
+Binghamton,15,14,America East
+Albany,14,14,America East
+UMBC,13,16,America East
+New Hampshire,8,21,America East
+NJIT,5,23,America East
+Memphis,23,5,American Athletic
+North Texas,20,6,American Athletic
+UAB,18,9,American Athletic
+Wichita State,17,10,American Athletic
+East Carolina,16,12,American Athletic
+Tulane,16,12,American Athletic
+FAU,15,12,American Athletic
+Temple,15,14,American Athletic
+Rice,13,16,American Athletic
+South Florida,13,16,American Athletic
+Tulsa,11,17,American Athletic
+UTSA,10,17,American Athletic
+Charlotte,10,18,American Athletic
+Lipscomb,22,9,ASUN
+North Alabama,22,9,ASUN
+Jacksonville,18,12,ASUN
+Queens (N.C.),18,13,ASUN
+FGCU,18,13,ASUN
+Eastern Kentucky,18,13,ASUN
+North Florida,15,16,ASUN
+Austin Peay,13,18,ASUN
+Stetson,8,23,ASUN
+Central Arkansas,8,23,ASUN
+West Georgia,6,25,ASUN
+Bellarmine,5,26,ASUN
+VCU,23,5,Atlantic 10
+George Mason,22,6,Atlantic 10
+Dayton,19,9,Atlantic 10
+Loyola-Chicago,19,9,Atlantic 10
+Saint Bonaventure,19,10,Atlantic 10
+Saint Joseph's,18,10,Atlantic 10
+George Washington,18,11,Atlantic 10
+Rhode Island,17,10,Atlantic 10
+Davidson,16,12,Atlantic 10
+Saint Louis,16,12,Atlantic 10
+La Salle,12,16,Atlantic 10
+Duquesne,12,16,Atlantic 10
+Fordham,11,17,Atlantic 10
+UMass,11,17,Atlantic 10
+Richmond,10,19,Atlantic 10
+Houston,24,4,Big 12
+Iowa State,21,7,Big 12
+Texas Tech,21,7,Big 12
+BYU,20,8,Big 12
+Kansas,19,9,Big 12
+Arizona,19,9,Big 12
+West Virginia,17,11,Big 12
+Cincinnati,17,11,Big 12
+Baylor,16,12,Big 12
+UCF,15,13,Big 12
+Utah,15,13,Big 12
+TCU,15,13,Big 12
+Oklahoma State,14,14,Big 12
+Arizona State,13,15,Big 12
+Kansas State,13,15,Big 12
+Colorado,11,17,Big 12
+Saint John's,25,4,Big East
+Marquette,21,7,Big East
+Creighton,20,8,Big East
+UConn,19,9,Big East
+Xavier,18,10,Big East
+Villanova,17,12,Big East
+Georgetown,16,12,Big East
+Butler,13,15,Big East
+Providence,12,16,Big East
+DePaul,11,18,Big East
+Seton Hall,7,21,Big East
+Northern Colorado,21,8,Big Sky
+Montana,20,8,Big Sky
+Portland State,16,12,Big Sky
+Northern Arizona,16,13,Big Sky
+Idaho State,13,13,Big Sky
+Idaho,12,16,Big Sky
+Montana State,12,16,Big Sky
+Eastern Washington,10,18,Big Sky
+Weber State,10,19,Big Sky
+Sacramento State,7,21,Big Sky
+High Point,26,5,Big South
+UNC-Asheville,20,9,Big South
+Winthrop,19,10,Big South
+Radford,18,12,Big South
+Longwood,17,12,Big South
+Presbyterian,13,17,Big South
+Gardner-Webb,10,18,Big South
+Charleston Southern,10,20,Big South
+South Carolina-Upstate,6,24,Big South
+Michigan State,23,5,Big Ten
+Wisconsin,22,6,Big Ten
+Michigan,21,6,Big Ten
+Maryland,21,7,Big Ten
+Oregon,20,8,Big Ten
+UCLA,20,8,Big Ten
+Purdue,19,9,Big Ten
+Illinois,18,11,Big Ten
+Indiana,17,11,Big Ten
+Nebraska,17,11,Big Ten
+Ohio State,16,13,Big Ten
+Iowa,15,13,Big Ten
+Northwestern,15,13,Big Ten
+Penn State,15,14,Big Ten
+USC,14,14,Big Ten
+Minnesota,14,14,Big Ten
+Rutgers,14,14,Big Ten
+Washington,13,15,Big Ten
+UC-San Diego,24,4,Big West
+UC-Irvine,23,5,Big West
+Cal State-Northridge,20,7,Big West
+UC-Santa Barbara,18,10,Big West
+UC-Riverside,18,11,Big West
+UC-Davis,15,13,Big West
+Hawaii,14,13,Big West
+Cal State-Bakersfield,12,17,Big West
+Cal Poly,11,17,Big West
+Cal State-Long Beach,7,21,Big West
+Cal State-Fullerton,6,22,Big West
+UNC-Wilmington,22,7,Coastal Athletic
+College of Charleston,21,8,Coastal Athletic
+Towson,19,10,Coastal Athletic
+Elon,17,12,Coastal Athletic
+William and Mary,17,12,Coastal Athletic
+Hampton,16,13,Coastal Athletic
+Drexel,15,14,Coastal Athletic
+Northeastern,15,14,Coastal Athletic
+Campbell,15,14,Coastal Athletic
+Hofstra,13,16,Coastal Athletic
+Delaware,12,17,Coastal Athletic
+Monmouth,11,18,Coastal Athletic
+North Carolina A&T,7,22,Coastal Athletic
+Stony Brook,6,23,Coastal Athletic
+Liberty,22,5,Conference USA
+Jacksonville State,19,9,Conference USA
+Middle Tennessee,18,9,Conference USA
+Louisiana Tech,18,10,Conference USA
+UTEP,17,10,Conference USA
+Kennesaw State,16,12,Conference USA
+Western Kentucky,15,12,Conference USA
+New Mexico State,15,12,Conference USA
+Sam Houston State,11,17,Conference USA
+FIU,8,19,Conference USA
+Robert Morris,22,8,Horizon League
+Cleveland State,19,10,Horizon League
+Purdue-Fort Wayne,19,10,Horizon League
+Wisconsin-Milwaukee,19,10,Horizon League
+Youngstown State,19,11,Horizon League
+Northern Kentucky,14,15,Horizon League
+Wright State,13,16,Horizon League
+Oakland-Michigan,13,16,Horizon League
+IUPUI,9,20,Horizon League
+Detroit-Mercy,8,21,Horizon League
+Wisconsin-Green Bay,3,26,Horizon League
+Yale,18,6,Ivy League
+Princeton,17,9,Ivy League
+Cornell,14,10,Ivy League
+Brown,13,11,Ivy League
+Dartmouth,13,11,Ivy League
+Columbia,12,12,Ivy League
+Harvard,10,14,Ivy League
+Penn,7,17,Ivy League
+Marist,20,5,Metro Atlantic Athletic
+Quinnipiac,17,10,Metro Atlantic Athletic
+Mount Saint Mary's,17,10,Metro Atlantic Athletic
+Merrimack,15,13,Metro Atlantic Athletic
+Manhattan,13,12,Metro Atlantic Athletic
+Siena,13,15,Metro Atlantic Athletic
+Sacred Heart,12,15,Metro Atlantic Athletic
+Iona,12,16,Metro Atlantic Athletic
+Saint Peter's,10,14,Metro Atlantic Athletic
+Fairfield,10,17,Metro Atlantic Athletic
+Niagara,10,17,Metro Atlantic Athletic
+Rider,10,18,Metro Atlantic Athletic
+Canisius,3,24,Metro Atlantic Athletic
+Akron,22,6,Mid-American
+Miami-OH,21,7,Mid-American
+Kent State,19,9,Mid-American
+Toledo,16,12,Mid-American
+Ohio,15,13,Mid-American
+Eastern Michigan,14,14,Mid-American
+Ball State,14,14,Mid-American
+Central Michigan,13,15,Mid-American
+Bowling Green,12,16,Mid-American
+Western Michigan,10,18,Mid-American
+Buffalo,8,20,Mid-American
+Northern Illinois,5,23,Mid-American
+Norfolk State,20,8,Mid-Eastern Athletic
+South Carolina State,15,12,Mid-Eastern Athletic
+Delaware State,14,12,Mid-Eastern Athletic
+Howard,12,16,Mid-Eastern Athletic
+Morgan State,11,16,Mid-Eastern Athletic
+North Carolina Central,11,17,Mid-Eastern Athletic
+Coppin State,5,21,Mid-Eastern Athletic
+Maryland-Eastern Shore,5,22,Mid-Eastern Athletic
+Drake,26,3,Missouri Valley
+Bradley,23,7,Missouri Valley
+Belmont,20,10,Missouri Valley
+Northern Iowa,20,10,Missouri Valley
+Illinois State,17,13,Missouri Valley
+Illinois-Chicago,16,13,Missouri Valley
+Murray State,15,15,Missouri Valley
+Valparaiso,13,17,Missouri Valley
+Indiana State,13,17,Missouri Valley
+Southern Illinois,13,17,Missouri Valley
+Evansville,11,19,Missouri Valley
+Missouri State,9,21,Missouri Valley
+Utah State,24,5,Mountain West
+New Mexico,22,6,Mountain West
+Boise State,20,8,Mountain West
+San Diego State,19,7,Mountain West
+Colorado State,19,9,Mountain West
+Nevada,16,12,Mountain West
+UNLV,15,13,Mountain West
+San Jose State,13,17,Mountain West
+Wyoming,12,17,Mountain West
+Fresno State,5,23,Mountain West
+Air Force,4,24,Mountain West
+Central Connecticut,21,6,Northeast
+Wagner,14,13,Northeast
+Stonehill,14,15,Northeast
+Long Island,14,15,Northeast
+Mercyhurst,14,16,Northeast
+Saint Francis-PA,12,17,Northeast
+FDU,11,18,Northeast
+Le Moyne,9,20,Northeast
+Chicago State,4,25,Northeast
+SIU-Edwardsville,19,10,Ohio Valley
+Southeast Missouri State,19,10,Ohio Valley
+Arkansas-Little Rock,18,11,Ohio Valley
+Tennessee Tech,15,14,Ohio Valley
+Morehead State,14,15,Ohio Valley
+Tennessee State,14,15,Ohio Valley
+Lindenwood,14,16,Ohio Valley
+Tennessee-Martin,12,17,Ohio Valley
+Western Illinois,11,19,Ohio Valley
+Southern Indiana,10,18,Ohio Valley
+Eastern Illinois,10,19,Ohio Valley
+American,18,12,Patriot
+Army,16,13,Patriot
+Bucknell,16,14,Patriot
+Boston University,15,15,Patriot
+Holy Cross,13,17,Patriot
+Colgate,13,17,Patriot
+Lafayette,12,18,Patriot
+Navy,12,18,Patriot
+Loyola-Maryland,11,17,Patriot
+Lehigh,10,18,Patriot
+Auburn,26,2,SEC
+Florida,24,4,SEC
+Alabama,23,5,SEC
+Tennessee,23,5,SEC
+Missouri,21,7,SEC
+TAMU,20,8,SEC
+Vanderbilt,19,9,SEC
+Mississippi State,19,9,SEC
+Ole Miss,19,9,SEC
+Kentucky,19,9,SEC
+Oklahoma,17,11,SEC
+Georgia,17,11,SEC
+Arkansas,17,11,SEC
+Texas,16,12,SEC
+LSU,14,14,SEC
+South Carolina,11,17,SEC
+Furman,22,8,Southern
+Samford,21,8,Southern
+Chattanooga,21,8,Southern
+UNC-Greensboro,19,10,Southern
+East Tennessee State,18,12,Southern
+Wofford,16,14,Southern
+VMI,13,16,Southern
+Mercer,12,18,Southern
+Western Carolina,8,20,Southern
+Citadel,5,23,Southern
+McNeese State,23,6,Southland
+Southeastern Louisiana,18,11,Southland
+Nicholls State,18,11,Southland
+Lamar,18,11,Southland
+Texas A&M-Corpus Christi,17,13,Southland
+Incarnate Word,15,14,Southland
+UTRGV,14,15,Southland
+Stephen F Austin,14,15,Southland
+Northwestern State,13,15,Southland
+Houston Christian,12,17,Southland
+New Orleans,4,25,Southland
+Texas A&M-Commerce,4,25,Southland
+Southern,18,9,Southwestern Athletic
+Texas Southern,13,15,Southwestern Athletic
+Alabama State,13,15,Southwestern Athletic
+Bethune-Cookman,13,15,Southwestern Athletic
+Florida A&M,12,14,Southwestern Athletic
+Jackson State,10,17,Southwestern Athletic
+Alabama A&M,10,18,Southwestern Athletic
+Grambling State,9,18,Southwestern Athletic
+Alcorn State,8,19,Southwestern Athletic
+Prairie View A&M,5,23,Southwestern Athletic
+Arkansas-Pine Bluff,5,23,Southwestern Athletic
+Mississippi Valley State,3,25,Southwestern Athletic
+North Dakota State,21,10,Summit
+Saint Thomas,20,9,Summit
+South Dakota State,19,10,Summit
+Nebraska-Omaha,18,12,Summit
+South Dakota,17,13,Summit
+Missouri-Kansas City,11,18,Summit
+North Dakota,11,18,Summit
+Denver,10,19,Summit
+Oral Roberts,7,20,Summit
+Arkansas State,21,9,Sun Belt
+South Alabama,20,10,Sun Belt
+James Madison,20,10,Sun Belt
+Troy,19,10,Sun Belt
+Marshall,18,12,Sun Belt
+Appalachian State,17,12,Sun Belt
+Texas State,15,15,Sun Belt
+Georgia Southern,15,15,Sun Belt
+Georgia State,13,17,Sun Belt
+Old Dominion,11,19,Sun Belt
+Louisiana-Lafayette,11,19,Sun Belt
+Southern Miss,10,20,Sun Belt
+Coastal Carolina,10,20,Sun Belt
+Louisiana-Monroe,7,23,Sun Belt
+Saint Mary's,25,4,West Coast
+San Francisco,23,7,West Coast
+Gonzaga,22,8,West Coast
+Oregon State,20,10,West Coast
+Santa Clara,19,11,West Coast
+Washington State,16,13,West Coast
+Loyola-Marymount,16,13,West Coast
+Portland,11,18,West Coast
+Pepperdine,10,19,West Coast
+Pacific,9,22,West Coast
+San Diego,4,25,West Coast
+Grand Canyon,20,6,Western Athletic
+Utah Valley,20,7,Western Athletic
+Abilene Christian,14,13,Western Athletic
+California Baptist,13,13,Western Athletic
+UT-Arlington,13,14,Western Athletic
+Southern Utah,11,16,Western Athletic
+Tarleton State,11,17,Western Athletic
+Seattle,10,16,Western Athletic
+Utah Tech,6,21,Western Athletic

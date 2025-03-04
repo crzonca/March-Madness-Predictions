@@ -1,0 +1,144 @@
+{
+  "Games": [
+    {
+      "team1": "Auburn",
+      "team2": {
+        "team1": "Southern",
+        "team2": "American"
+      }
+    },
+    {
+      "team1": "Saint John's",
+      "team2": "Clemson"
+    },
+    {
+      "team1": "Gonzaga",
+      "team2": "Lipscomb"
+    },
+    {
+      "team1": "Purdue",
+      "team2": "Northern Colorado"
+    },
+    {
+      "team1": "Baylor",
+      "team2": "UC-Irvine"
+    },
+    {
+      "team1": "TAMU",
+      "team2": "Marist"
+    },
+    {
+      "team1": "UCLA",
+      "team2": "Saint Mary's"
+    },
+    {
+      "team1": "Kansas",
+      "team2": "Southern"
+    },
+    {
+      "team1": "Iowa State",
+      "team2": {
+        "team1": "Long Island",
+        "team2": "Old Dominion"
+      }
+    },
+    {
+      "team1": "Pitt",
+      "team2": "San Diego State"
+    },
+    {
+      "team1": "Illinois",
+      "team2": "McNeese State"
+    },
+    {
+      "team1": "Mississippi State",
+      "team2": "Saint Louis"
+    },
+    {
+      "team1": "Utah State",
+      "team2": "Missouri"
+    },
+    {
+      "team1": "Oregon",
+      "team2": "Utah Valley"
+    },
+    {
+      "team1": "Arizona",
+      "team2": "Ohio State"
+    },
+    {
+      "team1": "Florida",
+      "team2": "William and Mary"
+    },
+    {
+      "team1": "Duke",
+      "team2": "Morehead State"
+    },
+    {
+      "team1": "Maryland",
+      "team2": "Texas Tech"
+    },
+    {
+      "team1": "UConn",
+      "team2": "Samford"
+    },
+    {
+      "team1": "Michigan",
+      "team2": "Yale"
+    },
+    {
+      "team1": "Ole Miss",
+      "team2": {
+        "team1": "New Mexico",
+        "team2": "Iowa"
+      }
+    },
+    {
+      "team1": "Houston",
+      "team2": "New Mexico State"
+    },
+    {
+      "team1": "Georgia",
+      "team2": "North Carolina"
+    },
+    {
+      "team1": "Tennessee",
+      "team2": "Cleveland State"
+    },
+    {
+      "team1": "Alabama",
+      "team2": "Nebraska-Omaha"
+    },
+    {
+      "team1": "Louisville",
+      "team2": "Oklahoma"
+    },
+    {
+      "team1": "Memphis",
+      "team2": "Bradley"
+    },
+    {
+      "team1": "Michigan State",
+      "team2": "High Point"
+    },
+    {
+      "team1": "Wisconsin",
+      "team2": {
+        "team1": "Dayton",
+        "team2": "Creighton"
+      }
+    },
+    {
+      "team1": "Kentucky",
+      "team2": "Akron"
+    },
+    {
+      "team1": "West Virginia",
+      "team2": "Nebraska"
+    },
+    {
+      "team1": "Marquette",
+      "team2": "Bryant"
+    }
+  ]
+}
