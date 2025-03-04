@@ -1,0 +1,36 @@
+Conference Rankings
++------+-------------------------+--------+
+| Rank |        Conference       |   BT   |
++------+-------------------------+--------+
+|  1   |           SEC           | 2.720  |
+|  2   |         Big Ten         | 2.093  |
+|  3   |          Big 12         | 1.830  |
+|  4   |           ACC           | 1.350  |
+|  5   |         Big East        | 1.339  |
+|  6   |      Mountain West      | 0.863  |
+|  7   |       Atlantic 10       | 0.663  |
+|  8   |        West Coast       | 0.638  |
+|  9   |      Conference USA     | 0.468  |
+|  10  |     Missouri Valley     | 0.455  |
+|  11  |    American Athletic    | 0.367  |
+|  12  |         Big West        | 0.315  |
+|  13  |        Ivy League       | -0.059 |
+|  14  |        Big South        | -0.193 |
+|  15  |     Western Athletic    | -0.205 |
+|  16  |     Coastal Athletic    | -0.224 |
+|  17  |         Southern        | -0.254 |
+|  18  |       Mid-American      | -0.319 |
+|  19  |         Sun Belt        | -0.327 |
+|  20  |      Horizon League     | -0.358 |
+|  21  |          Summit         | -0.420 |
+|  22  |         Big Sky         | -0.475 |
+|  23  |        Southland        | -0.507 |
+|  24  |           ASUN          | -0.613 |
+|  25  | Metro Atlantic Athletic | -0.624 |
+|  26  |         Patriot         | -0.732 |
+|  27  |       America East      | -0.738 |
+|  28  |       Ohio Valley       | -0.882 |
+|  29  |        Northeast        | -0.988 |
+|  30  |   Mid-Eastern Athletic  | -1.181 |
+|  31  |  Southwestern Athletic  | -1.652 |
++------+-------------------------+--------+

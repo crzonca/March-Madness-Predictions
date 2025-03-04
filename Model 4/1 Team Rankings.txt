@@ -1,0 +1,73 @@
+Team Rankings Adjusting for Conference
++------+-------------------+---------+-------------------------+---------------+--------+---------+------+
+| Rank |        Team       | Team BT |        Conference       | Conference BT |   BT   |  Record | Tier |
++------+-------------------+---------+-------------------------+---------------+--------+---------+------+
+|  1   |       Auburn      |  1.109  |           SEC           |     2.720     | 3.828  |  21 - 2 |  1   |
+|  2   |      Alabama      |  0.867  |           SEC           |     2.720     | 3.586  |  20 - 3 |  1   |
+|  3   |      Florida      |  0.755  |           SEC           |     2.720     | 3.475  |  20 - 3 |  1   |
+|  4   |     Tennessee     |  0.713  |           SEC           |     2.720     | 3.433  |  20 - 4 |  1   |
+|  5   |        TAMU       |  0.523  |           SEC           |     2.720     | 3.243  |  18 - 5 |  2   |
+|  6   |      Ole Miss     |  0.312  |           SEC           |     2.720     | 3.032  |  18 - 6 |  2   |
+|  7   |       Purdue      |  0.889  |         Big Ten         |     2.093     | 2.982  |  19 - 5 |  2   |
+|  8   |      Missouri     |  0.228  |           SEC           |     2.720     | 2.947  |  17 - 6 |  2   |
+|  9   | Mississippi State |  0.205  |           SEC           |     2.720     | 2.924  |  17 - 6 |  2   |
+|  10  |      Kentucky     |  0.142  |           SEC           |     2.720     | 2.862  |  16 - 7 |  3   |
+|  11  |      Oklahoma     |  0.090  |           SEC           |     2.720     | 2.810  |  16 - 7 |  3   |
+|  12  |      Michigan     |  0.679  |         Big Ten         |     2.093     | 2.773  |  18 - 5 |  3   |
+|  13  |   Michigan State  |  0.676  |         Big Ten         |     2.093     | 2.770  |  19 - 4 |  3   |
+|  14  |     Wisconsin     |  0.648  |         Big Ten         |     2.093     | 2.742  |  19 - 5 |  3   |
+|  15  |      Houston      |  0.880  |          Big 12         |     1.830     | 2.710  |  19 - 4 |  3   |
+|  16  |        Duke       |  1.331  |           ACC           |     1.350     | 2.680  |  20 - 3 |  3   |
+|  17  |      Georgia      |  -0.092 |           SEC           |     2.720     | 2.628  |  16 - 8 |  3   |
+|  18  |        UCLA       |  0.476  |         Big Ten         |     2.093     | 2.570  |  18 - 6 |  3   |
+|  19  |     Iowa State    |  0.717  |          Big 12         |     1.830     | 2.546  |  18 - 5 |  3   |
+|  20  |    Saint John's   |  1.182  |         Big East        |     1.339     | 2.520  |  21 - 3 |  3   |
+|  21  |      Arizona      |  0.670  |          Big 12         |     1.830     | 2.500  |  17 - 6 |  3   |
+|  22  |     Texas Tech    |  0.633  |          Big 12         |     1.830     | 2.463  |  18 - 5 |  3   |
+|  23  |       Oregon      |  0.368  |         Big Ten         |     2.093     | 2.461  |  16 - 8 |  3   |
+|  24  |      Illinois     |  0.327  |         Big Ten         |     2.093     | 2.420  |  16 - 8 |  3   |
+|  25  |      Maryland     |  0.324  |         Big Ten         |     2.093     | 2.418  |  17 - 6 |  3   |
+|  26  |       Kansas      |  0.550  |          Big 12         |     1.830     | 2.379  |  16 - 7 |  4   |
+|  27  |     Louisville    |  0.995  |           ACC           |     1.350     | 2.345  |  18 - 6 |  4   |
+|  28  |     Ohio State    |  0.205  |         Big Ten         |     2.093     | 2.298  |  14 - 9 |  4   |
+|  29  |     Marquette     |  0.931  |         Big East        |     1.339     | 2.269  |  18 - 6 |  4   |
+|  30  |      Clemson      |  0.903  |           ACC           |     1.350     | 2.252  |  19 - 5 |  4   |
+|  31  |     Creighton     |  0.876  |         Big East        |     1.339     | 2.215  |  18 - 6 |  4   |
+|  32  |      Nebraska     |  0.082  |         Big Ten         |     2.093     | 2.176  |  15 - 8 |  4   |
+|  33  |       Baylor      |  0.292  |          Big 12         |     1.830     | 2.121  |  15 - 8 |  4   |
+|  34  |      Memphis      |  1.737  |    American Athletic    |     0.367     | 2.104  |  19 - 4 |  4   |
+|  35  |   West Virginia   |  0.234  |          Big 12         |     1.830     | 2.063  |  15 - 8 |  4   |
+|  36  |     Utah State    |  1.169  |      Mountain West      |     0.863     | 2.032  |  21 - 3 |  4   |
+|  37  |     New Mexico    |  1.127  |      Mountain West      |     0.863     | 1.990  |  20 - 4 |  4   |
+|  38  |    Saint Mary's   |  1.300  |        West Coast       |     0.638     | 1.937  |  21 - 4 |  5   |
+|  39  |        Iowa       |  -0.248 |         Big Ten         |     2.093     | 1.846  | 13 - 10 |  5   |
+|  40  |       UConn       |  0.506  |         Big East        |     1.339     | 1.844  |  16 - 7 |  5   |
+|  41  |   North Carolina  |  0.480  |           ACC           |     1.350     | 1.830  | 14 - 10 |  5   |
+|  42  |        Pitt       |  0.416  |           ACC           |     1.350     | 1.766  |  14 - 9 |  5   |
+|  43  |  San Diego State  |  0.782  |      Mountain West      |     0.863     | 1.645  |  15 - 6 |  5   |
+|  44  |      Gonzaga      |  0.987  |        West Coast       |     0.638     | 1.625  |  18 - 7 |  5   |
+|  45  |     UC-Irvine     |  1.110  |         Big West        |     0.315     | 1.425  |  20 - 4 |  6   |
+|  46  |       Dayton      |  0.620  |       Atlantic 10       |     0.663     | 1.283  |  16 - 8 |  6   |
+|  47  |      Bradley      |  0.740  |     Missouri Valley     |     0.455     | 1.195  |  19 - 6 |  6   |
+|  48  |     High Point    |  0.919  |        Big South        |     -0.193    | 0.726  |  21 - 5 |  7   |
+|  49  |    Saint Louis    |  0.030  |       Atlantic 10       |     0.663     | 0.694  | 14 - 10 |  7   |
+|  50  |       Akron       |  0.949  |       Mid-American      |     -0.319    | 0.630  |  18 - 5 |  7   |
+|  51  |   McNeese State   |  1.131  |        Southland        |     -0.507    | 0.623  |  18 - 6 |  7   |
+|  52  |        Yale       |  0.657  |        Ivy League       |     -0.059    | 0.597  |  14 - 6 |  7   |
+|  53  |      Samford      |  0.795  |         Southern        |     -0.254    | 0.541  |  19 - 6 |  7   |
+|  54  |    Utah Valley    |  0.672  |     Western Athletic    |     -0.205    | 0.467  |  17 - 7 |  8   |
+|  55  |  Cleveland State  |  0.690  |      Horizon League     |     -0.358    | 0.331  |  18 - 7 |  8   |
+|  56  |  New Mexico State |  -0.178 |      Conference USA     |     0.468     | 0.291  | 12 - 11 |  8   |
+|  57  | Northern Colorado |  0.755  |         Big Sky         |     -0.475    | 0.280  |  18 - 7 |  8   |
+|  58  |      Lipscomb     |  0.739  |           ASUN          |     -0.613    | 0.126  |  17 - 8 |  8   |
+|  59  |       Marist      |  0.686  | Metro Atlantic Athletic |     -0.624    | 0.062  |  16 - 5 |  8   |
+|  60  |   Nebraska-Omaha  |  0.373  |          Summit         |     -0.420    | -0.047 | 16 - 10 |  9   |
+|  61  |  William and Mary |  0.065  |     Coastal Athletic    |     -0.224    | -0.159 | 14 - 11 |  9   |
+|  62  |       Bryant      |  0.465  |       America East      |     -0.738    | -0.273 | 15 - 10 |  9   |
+|  63  |    Old Dominion   |  -0.207 |         Sun Belt        |     -0.327    | -0.534 | 11 - 14 |  10  |
+|  64  |      Southern     |  1.028  |  Southwestern Athletic  |     -1.652    | -0.623 |  15 - 8 |  10  |
+|  65  |   Morehead State  |  0.234  |       Ohio Valley       |     -0.882    | -0.648 | 14 - 11 |  10  |
+|  66  |      Colgate      |  -0.112 |         Patriot         |     -0.732    | -0.844 | 10 - 15 |  10  |
+|  67  |    Long Island    |  -0.053 |        Northeast        |     -0.988    | -1.041 | 12 - 15 |  11  |
+|  68  |       Howard      |  -0.168 |   Mid-Eastern Athletic  |     -1.181    | -1.350 |  9 - 14 |  11  |
++------+-------------------+---------+-------------------------+---------------+--------+---------+------+
